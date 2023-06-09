@@ -4,7 +4,7 @@ Do zrobienia interaktywne ikonografie i mapy.
 
 Dane powinny zawierać:
 
-1. miejsca zamieszkania dzieci (w formie lokalizacji geograficznej), odległość od szkoły oraz średni czas dojazdu  w roku szkolnym.
+1. miejsca zamieszkania dzieci (w formie lokalizacji geograficznej), odległość od szkoły oraz średni czas dojazdu w roku szkolnym.
 2. Lokalizacje i nazwy szkół do których idą dzieci.
 3. Klasy do których należą dzieci. Możliwość rozwinięcia szczegółowego ile dzieci z jakiej klasy idzie do jakiej szkoły.
 4. Statystyka osiągnięć uczniów w konkursach. Tak, aby dało się przedstawić linię trendu w ciągu ostatnich 7 lat. Informacja ile osób było z klas 7 i 8 w zależności od konkursu i roku.
@@ -24,6 +24,38 @@ erDiagram
         int STUDENT_ID
         string STUDENT_FIRST_NAME
         string STUDENT_LAST_NAME
+        decimal STUDENT_GEO_LATITUDE
+        decimal STUDENT_GEO_LONGITUDE
+        decimal STUDENT_TRAVEL_DISTANCE
+        decimal STUDENT_TRAVEL_TIME
+        int STUDENT_FUTURE_SCHOOL_ID
+        int STUDENT_CLASS_ID
+    }
 
+    STUDENTS_COMPETITIONS {
+        int STUDENT_ID
+        int COMPETITION_ID
+        int STUDENT_COMPETITION_YEAR
+        decimal STUDENT_COMPETITION_GRADE
+        bool STUDENT_COMPETITION_IS_LAUREATE
+    }
+
+    COMPETITIONS{
+        COMPETITION_ID
+        COMPETITION_NAME
+    }
+
+    CLASSES {
+        int CLASS_ID
+        string CLASS_NAME
+        string CLASS_LEVEL
+        string CLASS_YEAR
+    }
+
+    SCHOOLS {
+        int SCHOOL_ID
+        string SCHOOL_NAME
+        decimal SCHOOL_GEO_LATITUDE
+        decimal SCHOOL_GEO_LONGITUDE
     }
 ```
