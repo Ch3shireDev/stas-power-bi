@@ -48,14 +48,13 @@ erDiagram
     CLASSES {
         int CLASS_ID
         string CLASS_NAME
-        string CLASS_LEVEL
         string CLASS_YEAR
     }
 
-    SCHOOLS {
-        int SCHOOL_ID
-        string SCHOOL_NAME
-        decimal SCHOOL_GEO_LATITUDE
-        decimal SCHOOL_GEO_LONGITUDE
+    FUTURE_SCHOOLS {
+        int FUTURE_SCHOOL_ID
+        string FUTURE_SCHOOL_NAME
+        decimal FUTURE_SCHOOL_GEO_LATITUDE
+        decimal FUTURE_SCHOOL_GEO_LONGITUDE
     }
 ```

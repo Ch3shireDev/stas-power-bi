@@ -1,0 +1,482 @@
+[
+    {
+        "class_id": 1,
+        "class_letter": "A",
+        "class_name": "Klasa Cukierniczo-Filozoficzna",
+        "class_description": "Kurs skierowany do uczniów, którzy pragną zgłębiać tajniki istoty bytu, jednocześnie wypiekając torciki i ciasteczka. Filozofia staje się znacznie łatwiejsza do zrozumienia, gdy jej zasady omawiane są przy dekorowaniu babeczek."
+    },
+    {
+        "class_id": 2,
+        "class_letter": "B",
+        "class_name": "Klasa Numizmatyczno-Biologiczna",
+        "class_description": "Dla tych, którzy chcieliby połączyć swoją pasję do zbierania monet ze studiowaniem różnorodności życia na Ziemi. Szkolenia obejmują analizę wpływu rzadkich monet na proces fotosyntezy u roślin."
+    },
+    {
+        "class_id": 3,
+        "class_letter": "C",
+        "class_name": "Klasa Historyczno-Astronomiczna",
+        "class_description": "Ten unikalny program łączy w sobie analizę historycznych wydarzeń z obserwacją ciał niebieskich. Uczniowie mogą na przykład badać, jak wpływ fazy księżyca mógł wpływać na decyzje strategiczne w bitwach historycznych."
+    },
+    {
+        "class_id": 4,
+        "class_letter": "D",
+        "class_name": "Klasa Geograficzno-Kulinarne Origami",
+        "class_description": "Dla miłośników sztuki składania papieru, którzy pragną połączyć swoje umiejętności z wiedzą na temat regionalnej kuchni różnych krajów. Zajęcia obejmują tworzenie origami w kształcie charakterystycznych potraw."
+    },
+    {
+        "class_id": 5,
+        "class_letter": "E",
+        "class_name": "Klasa Matematyczno-Flamenco",
+        "class_description": "Dedykowana tym, którzy chcieliby połączyć radość z tańca z miłością do liczb. Zajęcia skupiają się na poszukiwaniu matematycznych wzorów w krokach i ruchach flamenco, oraz na zastosowaniu równań do choreografii."
+    },
+    {
+        "class_id": 6,
+        "class_letter": "F",
+        "class_name": "Klasa Fotograficzno-Entomologiczna",
+        "class_description": "Idealna dla miłośników fotografii i owadów, umożliwiająca zrozumienie wpływu światła na zachowania owadów i wykorzystanie tej wiedzy do tworzenia niezapomnianych zdjęć."
+    },
+    {
+        "class_id": 7,
+        "class_letter": "G",
+        "class_name": "Klasa Językowo-Szachowa",
+        "class_description": "Przeznaczona dla tych, którzy chcą połączyć swoje zainteresowania językami obcymi z grą w szachy, umożliwiając odkrywanie zaskakujących powiązań między gramatyką a strategiami szachowymi."
+    },
+    {
+        "class_id": 8,
+        "class_letter": "H",
+        "class_name": "Klasa Kulinarne Skateboardingu",
+        "class_description": "Dedykowana pasjonatom gotowania i sportów ekstremalnych, nauczysz się przyrządzać dania z różnych kultur podczas wykonywania tricków na deskorolce."
+    },
+    {
+        "class_id": 9,
+        "class_letter": "I",
+        "class_name": "Klasa Robotyczno-Baletowa",
+        "class_description": "Idealne dla miłośników technologii i tańca, ucząc jak programować roboty do wykonywania precyzyjnych ruchów baletowych."
+    },
+    {
+        "class_id": 10,
+        "class_letter": "J",
+        "class_name": "Klasa Biologiczno-Muzykologiczna",
+        "class_description": "Połączenie nauki o życiu z nauką o muzyce, badając na przykład wpływ różnych gatunków muzycznych na wzrost roślin."
+    },
+    {
+        "class_id": 11,
+        "class_letter": "A",
+        "class_name": "Klasa Astrologiczno-Archeologiczna",
+        "class_description": "Poświęcona badaniu wpływu układów gwiazd na historię starożytnych cywilizacji."
+    },
+    {
+        "class_id": 12,
+        "class_letter": "B",
+        "class_name": "Klasa Matematyczno-Komiksowa",
+        "class_description": "Idealne dla miłośników matematyki i komiksów, badających jak liczby i równania wpływają na strukturę i narrację w komiksach."
+    },
+    {
+        "class_id": 13,
+        "class_letter": "C",
+        "class_name": "Klasa Chemii Eksperymentalnej Mody",
+        "class_description": "Skupia się na badaniu wpływu różnych substancji chemicznych na tkaniny i ich potencjalne zastosowanie w przemyśle modowym."
+    },
+    {
+        "class_id": 14,
+        "class_letter": "D",
+        "class_name": "Klasa Fizyczno-Sztuk Walki",
+        "class_description": "Dla tych, którzy chcą zrozumieć zasady fizyki stojące za efektywnymi technikami samoobrony."
+    },
+    {
+        "class_id": 15,
+        "class_letter": "E",
+        "class_name": "Klasa Psychologiczno-Karate",
+        "class_description": "Badanie wpływu praktyk karate na zdrowie psychiczne i emocjonalne."
+    },
+    {
+        "class_id": 16,
+        "class_letter": "F",
+        "class_name": "Klasa Ekologiczno-Krawiecka",
+        "class_description": "Dla tych, którzy chcą połączyć pasję do ochrony środowiska z umiejętnościami szycia, np. tworząc modę z materiałów ekologicznych."
+    },
+    {
+        "class_id": 17,
+        "class_letter": "G",
+        "class_name": "Klasa Historyczno-Jogurtowa",
+        "class_description": "Analiza wpływu jogurtu na bieg historii."
+    },
+    {
+        "class_id": 18,
+        "class_letter": "H",
+        "class_name": "Klasa Astronomiczno-Kapustnicza",
+        "class_description": "Dla tych, którzy chcą połączyć zrozumienie gwiazd i kosmosu z gotowaniem kapusty w różnych kulturach."
+    },
+    {
+        "class_id": 19,
+        "class_letter": "I",
+        "class_name": "Klasa Geograficzno-Literacka Origami",
+        "class_description": "Stworzenie modeli papierowych symbolizujących znane dzieła literackie i ich związki z różnymi lokalizacjami."
+    },
+    {
+        "class_id": 20,
+        "class_letter": "J",
+        "class_name": "Klasa Komputerowo-Surfingowa",
+        "class_description": "Badanie, jak analiza danych z komputera może pomóc w prognozowaniu idealnych warunków do surfingu."
+    },
+    {
+        "class_id": 21,
+        "class_letter": "A",
+        "class_name": "Klasa Botaniczno-Origami",
+        "class_description": "Składanie roślin na papierze, wykorzystując różne techniki origami."
+    },
+    {
+        "class_id": 22,
+        "class_letter": "B",
+        "class_name": "Klasa Fizyczno-Poetycka",
+        "class_description": "Badanie związku między prawami fizyki a strukturą i rytmem poezji."
+    },
+    {
+        "class_id": 23,
+        "class_letter": "C",
+        "class_name": "Klasa Matematyczno-Kreatywna",
+        "class_description": "Wykorzystanie matematyki do stworzenia unikalnych dzieł sztuki, takich jak rzeźby czy malowidła."
+    },
+    {
+        "class_id": 24,
+        "class_letter": "D",
+        "class_name": "Klasa Historii Sztuki i Origami",
+        "class_description": "Badanie, jak tradycyjne techniki origami mogły wpływać na rozwój sztuki przez wieki."
+    },
+    {
+        "class_id": 25,
+        "class_letter": "E",
+        "class_name": "Klasa Literacko-Archeologiczna",
+        "class_description": "Odkrywanie, jak starożytne teksty i manuskrypty mogą rzucać nowe światło na pradawne cywilizacje."
+    },
+    {
+        "class_id": 26,
+        "class_letter": "F",
+        "class_name": "Klasa Muzyczno-Astronomiczna",
+        "class_description": "Badanie, jak harmonia i rytm w muzyce mogą odzwierciedlać ruchy i dynamikę ciał niebieskich."
+    },
+    {
+        "class_id": 27,
+        "class_letter": "G",
+        "class_name": "Klasa Biologiczno-Skateboardingu",
+        "class_description": "Badanie wpływu jazdy na deskorolce na biologię i fizjologię człowieka."
+    },
+    {
+        "class_id": 28,
+        "class_letter": "H",
+        "class_name": "Klasa Fizyczno-Pottery",
+        "class_description": "Zrozumienie, jak prawa fizyki wpływają na proces tworzenia ceramiki."
+    },
+    {
+        "class_id": 29,
+        "class_letter": "I",
+        "class_name": "Klasa Chemiczno-Kulinarna",
+        "class_description": "Eksplorowanie, jak reakcje chemiczne wpływają na smak i konsystencję różnych potraw."
+    },
+    {
+        "class_id": 30,
+        "class_letter": "J",
+        "class_name": "Klasa Psychologiczno-Komiksowa",
+        "class_description": "Badanie wpływu czytania komiksów na zdrowie psychiczne."
+    },
+    {
+        "class_id": 31,
+        "class_letter": "A",
+        "class_name": "Klasa Ekologiczno-Literacka",
+        "class_description": "Analiza, jak literatura może wpływać na naszą świadomość ekologiczną."
+    },
+    {
+        "class_id": 32,
+        "class_letter": "B",
+        "class_name": "Klasa Historyczno-Yogi",
+        "class_description": "Zrozumienie, jak praktyka jogi wpłynęła na bieg historii."
+    },
+    {
+        "class_id": 33,
+        "class_letter": "C",
+        "class_name": "Klasa Astronomiczno-Baletowa",
+        "class_description": "Badanie, jak pozycje planet mogą wpływać na choreografię baletu."
+    },
+    {
+        "class_id": 34,
+        "class_letter": "D",
+        "class_name": "Klasa Geograficzno-Jogurtowa",
+        "class_description": "Analiza, jak produkcja jogurtu wpływa na różne regiony świata."
+    },
+    {
+        "class_id": 35,
+        "class_letter": "E",
+        "class_name": "Klasa Komputerowo-Origami",
+        "class_description": "Wykorzystanie komputerowego modelowania do tworzenia skomplikowanych wzorów origami."
+    },
+    {
+        "class_id": 36,
+        "class_letter": "F",
+        "class_name": "Klasa Botaniczno-Karate",
+        "class_description": "Zrozumienie, jak rośliny mogą wpływać na praktykę karate."
+    },
+    {
+        "class_id": 37,
+        "class_letter": "G",
+        "class_name": "Klasa Fizyczno-Numizmatyczna",
+        "class_description": "Badanie, jak prawa fizyki wpływają na tworzenie i kształt monet."
+    },
+    {
+        "class_id": 38,
+        "class_letter": "H",
+        "class_name": "Klasa Matematyczno-Poetycka",
+        "class_description": "Wykorzystanie matematyki do zrozumienia struktury i rytmu poezji."
+    },
+    {
+        "class_id": 39,
+        "class_letter": "I",
+        "class_name": "Klasa Literacko-Szachowej",
+        "class_description": "Badanie, jak literatura wpływa na strategie szachowe."
+    },
+    {
+        "class_id": 40,
+        "class_letter": "J",
+        "class_name": "Klasa Muzyczno-Archeologiczna",
+        "class_description": "Odkrywanie, jak starożytne instrumenty i techniki muzyczne mogły wpływać na pradawne cywilizacje."
+    },
+    {
+        "class_id": 41,
+        "class_letter": "A",
+        "class_name": "Klasa Biologiczno-Graffiti",
+        "class_description": "Badanie wpływu biologicznych składników farb do graffiti na ekosystemy miejskie."
+    },
+    {
+        "class_id": 42,
+        "class_letter": "B",
+        "class_name": "Klasa Fizyczno-Jeździectwa",
+        "class_description": "Eksplorowanie związków między prawami fizyki a technikami jeździeckimi."
+    },
+    {
+        "class_id": 43,
+        "class_letter": "C",
+        "class_name": "Klasa Chemiczno-Kapustnicza",
+        "class_description": "Zrozumienie wpływu reakcji chemicznych na smak i teksturę tradycyjnej kapusty."
+    },
+    {
+        "class_id": 44,
+        "class_letter": "D",
+        "class_name": "Klasa Psychologiczno-Szachowa",
+        "class_description": "Badanie wpływu gry w szachy na zdolności myślenia i strategii."
+    },
+    {
+        "class_id": 45,
+        "class_letter": "E",
+        "class_name": "Klasa Ekologiczno-Sztuk Walki",
+        "class_description": "Wykorzystanie zasad ochrony środowiska do zrozumienia i wprowadzania nowych technik walki."
+    },
+    {
+        "class_id": 46,
+        "class_letter": "F",
+        "class_name": "Klasa Historyczno-Biologiczna",
+        "class_description": "Odkrywanie wpływu historycznych wydarzeń na ewolucję i rozwój biologiczny."
+    },
+    {
+        "class_id": 47,
+        "class_letter": "G",
+        "class_name": "Klasa Astronomiczno-Kulinarna",
+        "class_description": "Analiza wpływu cykli księżycowych i planetarnych na uprawę składników kulinarnej."
+    },
+    {
+        "class_id": 48,
+        "class_letter": "H",
+        "class_name": "Klasa Geograficzno-Jeździectwa",
+        "class_description": "Badanie wpływu różnych geograficznych terenów na techniki jeździectwa."
+    },
+    {
+        "class_id": 49,
+        "class_letter": "I",
+        "class_name": "Klasa Komputerowo-Kapustnicza",
+        "class_description": "Wykorzystanie technologii informatycznych do optymalizacji procesu gotowania kapusty."
+    },
+    {
+        "class_id": 50,
+        "class_letter": "J",
+        "class_name": "Klasa Botaniczno-Szachowej",
+        "class_description": "Studiowanie wpływu roślinności na strategie i taktyki szachowe."
+    },
+    {
+        "class_id": 51,
+        "class_letter": "A",
+        "class_name": "Klasa Fizyczno-Graffiti",
+        "class_description": "Zrozumienie wpływu fizyki na techniki i style graffiti."
+    },
+    {
+        "class_id": 52,
+        "class_letter": "B",
+        "class_name": "Klasa Matematyczno-Jeździectwa",
+        "class_description": "Wykorzystanie matematyki do zrozumienia i poprawy technik jeździectwa."
+    },
+    {
+        "class_id": 53,
+        "class_letter": "C",
+        "class_name": "Klasa Literacko-Kapustnicza",
+        "class_description": "Analiza literackich odniesień do kapusty i jej roli w różnych kulturach."
+    },
+    {
+        "class_id": 54,
+        "class_letter": "D",
+        "class_name": "Klasa Muzyczno-Szachowej",
+        "class_description": "Badanie wpływu muzyki na strategie i taktyki szachowe."
+    },
+    {
+        "class_id": 55,
+        "class_letter": "E",
+        "class_name": "Klasa Biologiczno-Graffiti",
+        "class_description": "Zrozumienie wpływu biologii na tworzenie i interpretację graffiti."
+    },
+    {
+        "class_id": 56,
+        "class_letter": "F",
+        "class_name": "Klasa Fizyczno-Jeździectwa",
+        "class_description": "Analiza wpływu fizyki na techniki jeździectwa."
+    },
+    {
+        "class_id": 57,
+        "class_letter": "G",
+        "class_name": "Klasa Chemiczno-Szachowej",
+        "class_description": "Badanie wpływu chemii na strategie i taktyki szachowe."
+    },
+    {
+        "class_id": 58,
+        "class_letter": "H",
+        "class_name": "Klasa Psychologiczno-Kapustnicza",
+        "class_description": "Badanie wpływu spożycia kapusty na zdrowie psychiczne."
+    },
+    {
+        "class_id": 59,
+        "class_letter": "I",
+        "class_name": "Klasa Ekologiczno-Graffiti",
+        "class_description": "Zrozumienie wpływu graffiti na środowisko naturalne."
+    },
+    {
+        "class_id": 60,
+        "class_letter": "J",
+        "class_name": "Klasa Historyczno-Jeździectwa",
+        "class_description": "Analiza historycznych technik jeździectwa i ich wpływu na współczesne praktyki."
+    },
+    {
+        "class_id": 61,
+        "class_letter": "A",
+        "class_name": "Klasa Astronomiczno-Szachowej",
+        "class_description": "Badanie wpływu astronomii na strategie i taktyki szachowe."
+    },
+    {
+        "class_id": 62,
+        "class_letter": "B",
+        "class_name": "Klasa Geograficzno-Kapustnicza",
+        "class_description": "Studiowanie wpływu różnych geograficznych obszarów na uprawę kapusty."
+    },
+    {
+        "class_id": 63,
+        "class_letter": "C",
+        "class_name": "Klasa Komputerowo-Graffiti",
+        "class_description": "Wykorzystanie technologii informatycznych do tworzenia cyfrowego graffiti."
+    },
+    {
+        "class_id": 64,
+        "class_letter": "D",
+        "class_name": "Klasa Botaniczno-Jeździectwa",
+        "class_description": "Badanie wpływu roślinności na praktykę jeździectwa."
+    },
+    {
+        "class_id": 65,
+        "class_letter": "E",
+        "class_name": "Klasa Fizyczno-Szachowej",
+        "class_description": "Zrozumienie wpływu fizyki na strategie i taktyki szachowe."
+    },
+    {
+        "class_id": 66,
+        "class_letter": "F",
+        "class_name": "Klasa Matematyczno-Kapustnicza",
+        "class_description": "Wykorzystanie matematyki do optymalizacji uprawy i gotowania kapusty."
+    },
+    {
+        "class_id": 67,
+        "class_letter": "G",
+        "class_name": "Klasa Literacko-Graffiti",
+        "class_description": "Analiza literackich odniesień do graffiti i jej roli w kulturze miejskiej."
+    },
+    {
+        "class_id": 68,
+        "class_letter": "H",
+        "class_name": "Klasa Muzyczno-Jeździectwa",
+        "class_description": "Badanie wpływu muzyki na techniki jeździectwa."
+    },
+    {
+        "class_id": 69,
+        "class_letter": "I",
+        "class_name": "Klasa Biologiczno-Szachowej",
+        "class_description": "Zrozumienie wpływu biologii na strategie i taktyki szachowe."
+    },
+    {
+        "class_id": 70,
+        "class_letter": "J",
+        "class_name": "Klasa Fizyczno-Kapustnicza",
+        "class_description": "Badanie wpływu fizyki na uprawę i gotowanie kapusty."
+    },
+    {
+        "class_id": 71,
+        "class_letter": "A",
+        "class_name": "Klasa Chemiczno-Graffiti",
+        "class_description": "Analiza wpływu chemii na tworzenie graffiti."
+    },
+    {
+        "class_id": 72,
+        "class_letter": "B",
+        "class_name": "Klasa Psychologiczno-Jeździectwa",
+        "class_description": "Badanie wpływu jeździectwa na zdrowie psychiczne."
+    },
+    {
+        "class_id": 73,
+        "class_letter": "C",
+        "class_name": "Klasa Ekologiczno-Szachowej",
+        "class_description": "Zrozumienie wpływu szachów na środowisko naturalne."
+    },
+    {
+        "class_id": 74,
+        "class_letter": "D",
+        "class_name": "Klasa Historyczno-Kapustnicza",
+        "class_description": "Studiowanie wpływu kapusty na historyczne wydarzenia."
+    },
+    {
+        "class_id": 75,
+        "class_letter": "E",
+        "class_name": "Klasa Astronomiczno-Graffiti",
+        "class_description": "Badanie wpływu astronomii na tworzenie graffiti."
+    },
+    {
+        "class_id": 76,
+        "class_letter": "F",
+        "class_name": "Klasa Geograficzno-Jeździectwa",
+        "class_description": "Analiza wpływu geografii na praktykę jeździectwa."
+    },
+    {
+        "class_id": 77,
+        "class_letter": "G",
+        "class_name": "Klasa Komputerowo-Szachowej",
+        "class_description": "Wykorzystanie technologii informatycznych do poprawy strategii i taktyk szachowych."
+    },
+    {
+        "class_id": 78,
+        "class_letter": "H",
+        "class_name": "Klasa Botaniczno-Kapustnicza",
+        "class_description": "Zrozumienie wpływu botaniki na uprawę i gotowanie kapusty."
+    },
+    {
+        "class_id": 79,
+        "class_letter": "I",
+        "class_name": "Klasa Matematyczno-Jeździectwa",
+        "class_description": "Wykorzystanie matematyki do zrozumienia i poprawy technik jeździectwa."
+    },
+    {
+        "class_id": 80,
+        "class_letter": "J",
+        "class_name": "Klasa Literacko-Szachowa",
+        "class_description": "Badanie wpływu literatury na strategie i taktyki szachowe."
+    }
+]

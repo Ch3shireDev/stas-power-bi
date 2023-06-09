@@ -1,0 +1,5942 @@
+[
+    {
+        "student_id": 2375,
+        "competition_id": 12,
+        "student_competition_score": 51,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 782,
+        "competition_id": 9,
+        "student_competition_score": 49,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2259,
+        "competition_id": 2,
+        "student_competition_score": 9,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1950,
+        "competition_id": 2,
+        "student_competition_score": 22,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 232,
+        "competition_id": 9,
+        "student_competition_score": 43,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2362,
+        "competition_id": 10,
+        "student_competition_score": 40,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2277,
+        "competition_id": 17,
+        "student_competition_score": 49,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1520,
+        "competition_id": 3,
+        "student_competition_score": 51,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1352,
+        "competition_id": 6,
+        "student_competition_score": 41,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2106,
+        "competition_id": 16,
+        "student_competition_score": 54,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1003,
+        "competition_id": 7,
+        "student_competition_score": 17,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 990,
+        "competition_id": 16,
+        "student_competition_score": 31,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1118,
+        "competition_id": 11,
+        "student_competition_score": 64,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1646,
+        "competition_id": 8,
+        "student_competition_score": 20,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1907,
+        "competition_id": 3,
+        "student_competition_score": 28,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 572,
+        "competition_id": 15,
+        "student_competition_score": 17,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 910,
+        "competition_id": 14,
+        "student_competition_score": 44,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2361,
+        "competition_id": 19,
+        "student_competition_score": 15,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1201,
+        "competition_id": 17,
+        "student_competition_score": 91,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1506,
+        "competition_id": 14,
+        "student_competition_score": 13,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1357,
+        "competition_id": 19,
+        "student_competition_score": 10,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1398,
+        "competition_id": 16,
+        "student_competition_score": 49,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 768,
+        "competition_id": 2,
+        "student_competition_score": 51,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1763,
+        "competition_id": 19,
+        "student_competition_score": 16,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1542,
+        "competition_id": 19,
+        "student_competition_score": 99,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 416,
+        "competition_id": 17,
+        "student_competition_score": 56,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1651,
+        "competition_id": 15,
+        "student_competition_score": 70,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1593,
+        "competition_id": 13,
+        "student_competition_score": 40,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1548,
+        "competition_id": 16,
+        "student_competition_score": 70,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 320,
+        "competition_id": 14,
+        "student_competition_score": 9,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2076,
+        "competition_id": 18,
+        "student_competition_score": 17,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1397,
+        "competition_id": 4,
+        "student_competition_score": 68,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1201,
+        "competition_id": 4,
+        "student_competition_score": 53,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 454,
+        "competition_id": 13,
+        "student_competition_score": 61,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 353,
+        "competition_id": 8,
+        "student_competition_score": 24,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 740,
+        "competition_id": 3,
+        "student_competition_score": 37,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 702,
+        "competition_id": 20,
+        "student_competition_score": 20,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1627,
+        "competition_id": 16,
+        "student_competition_score": 66,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 830,
+        "competition_id": 17,
+        "student_competition_score": 61,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1287,
+        "competition_id": 4,
+        "student_competition_score": 69,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 77,
+        "competition_id": 16,
+        "student_competition_score": 41,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 598,
+        "competition_id": 18,
+        "student_competition_score": 61,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 661,
+        "competition_id": 8,
+        "student_competition_score": 15,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 96,
+        "competition_id": 10,
+        "student_competition_score": 42,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1240,
+        "competition_id": 18,
+        "student_competition_score": 10,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 46,
+        "competition_id": 10,
+        "student_competition_score": 1,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1078,
+        "competition_id": 8,
+        "student_competition_score": 60,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1106,
+        "competition_id": 19,
+        "student_competition_score": 43,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1967,
+        "competition_id": 4,
+        "student_competition_score": 51,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 212,
+        "competition_id": 20,
+        "student_competition_score": 18,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1411,
+        "competition_id": 5,
+        "student_competition_score": 27,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1503,
+        "competition_id": 9,
+        "student_competition_score": 89,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1922,
+        "competition_id": 17,
+        "student_competition_score": 4,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 954,
+        "competition_id": 20,
+        "student_competition_score": 2,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 4,
+        "competition_id": 10,
+        "student_competition_score": 30,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2120,
+        "competition_id": 9,
+        "student_competition_score": 85,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2192,
+        "competition_id": 6,
+        "student_competition_score": 42,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1772,
+        "competition_id": 3,
+        "student_competition_score": 71,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1686,
+        "competition_id": 12,
+        "student_competition_score": 6,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 647,
+        "competition_id": 11,
+        "student_competition_score": 0,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1640,
+        "competition_id": 2,
+        "student_competition_score": 34,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2309,
+        "competition_id": 16,
+        "student_competition_score": 63,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 130,
+        "competition_id": 19,
+        "student_competition_score": 96,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1422,
+        "competition_id": 9,
+        "student_competition_score": 26,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2208,
+        "competition_id": 14,
+        "student_competition_score": 37,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 322,
+        "competition_id": 19,
+        "student_competition_score": 23,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1740,
+        "competition_id": 16,
+        "student_competition_score": 2,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 887,
+        "competition_id": 13,
+        "student_competition_score": 39,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 591,
+        "competition_id": 20,
+        "student_competition_score": 80,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1358,
+        "competition_id": 17,
+        "student_competition_score": 62,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 965,
+        "competition_id": 15,
+        "student_competition_score": 15,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 657,
+        "competition_id": 3,
+        "student_competition_score": 0,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1822,
+        "competition_id": 3,
+        "student_competition_score": 45,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1585,
+        "competition_id": 14,
+        "student_competition_score": 19,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 691,
+        "competition_id": 2,
+        "student_competition_score": 77,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1029,
+        "competition_id": 18,
+        "student_competition_score": 74,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2347,
+        "competition_id": 1,
+        "student_competition_score": 80,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1561,
+        "competition_id": 2,
+        "student_competition_score": 87,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2,
+        "competition_id": 19,
+        "student_competition_score": 1,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 2010,
+        "competition_id": 20,
+        "student_competition_score": 58,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2211,
+        "competition_id": 8,
+        "student_competition_score": 16,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 159,
+        "competition_id": 11,
+        "student_competition_score": 45,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1053,
+        "competition_id": 2,
+        "student_competition_score": 52,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2378,
+        "competition_id": 1,
+        "student_competition_score": 32,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1924,
+        "competition_id": 6,
+        "student_competition_score": 39,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1549,
+        "competition_id": 1,
+        "student_competition_score": 6,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1745,
+        "competition_id": 18,
+        "student_competition_score": 84,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 327,
+        "competition_id": 7,
+        "student_competition_score": 52,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1022,
+        "competition_id": 7,
+        "student_competition_score": 34,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1075,
+        "competition_id": 1,
+        "student_competition_score": 48,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1916,
+        "competition_id": 7,
+        "student_competition_score": 67,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 557,
+        "competition_id": 18,
+        "student_competition_score": 45,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2268,
+        "competition_id": 20,
+        "student_competition_score": 100,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1806,
+        "competition_id": 7,
+        "student_competition_score": 65,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1657,
+        "competition_id": 20,
+        "student_competition_score": 21,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2188,
+        "competition_id": 10,
+        "student_competition_score": 79,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 913,
+        "competition_id": 4,
+        "student_competition_score": 16,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1824,
+        "competition_id": 15,
+        "student_competition_score": 65,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1037,
+        "competition_id": 16,
+        "student_competition_score": 85,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 976,
+        "competition_id": 1,
+        "student_competition_score": 13,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1800,
+        "competition_id": 15,
+        "student_competition_score": 82,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1678,
+        "competition_id": 17,
+        "student_competition_score": 65,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 976,
+        "competition_id": 5,
+        "student_competition_score": 44,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1678,
+        "competition_id": 18,
+        "student_competition_score": 97,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2092,
+        "competition_id": 14,
+        "student_competition_score": 60,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1554,
+        "competition_id": 7,
+        "student_competition_score": 79,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1533,
+        "competition_id": 13,
+        "student_competition_score": 78,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 931,
+        "competition_id": 8,
+        "student_competition_score": 26,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1107,
+        "competition_id": 6,
+        "student_competition_score": 53,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 800,
+        "competition_id": 8,
+        "student_competition_score": 71,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1111,
+        "competition_id": 11,
+        "student_competition_score": 38,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1193,
+        "competition_id": 19,
+        "student_competition_score": 44,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 799,
+        "competition_id": 20,
+        "student_competition_score": 3,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 254,
+        "competition_id": 15,
+        "student_competition_score": 73,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 180,
+        "competition_id": 18,
+        "student_competition_score": 42,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 542,
+        "competition_id": 11,
+        "student_competition_score": 77,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1391,
+        "competition_id": 8,
+        "student_competition_score": 20,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1705,
+        "competition_id": 6,
+        "student_competition_score": 9,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2205,
+        "competition_id": 8,
+        "student_competition_score": 33,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 977,
+        "competition_id": 5,
+        "student_competition_score": 22,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1645,
+        "competition_id": 17,
+        "student_competition_score": 43,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1396,
+        "competition_id": 14,
+        "student_competition_score": 1,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 387,
+        "competition_id": 2,
+        "student_competition_score": 97,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 504,
+        "competition_id": 13,
+        "student_competition_score": 50,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 63,
+        "competition_id": 19,
+        "student_competition_score": 74,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1882,
+        "competition_id": 15,
+        "student_competition_score": 44,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1808,
+        "competition_id": 2,
+        "student_competition_score": 20,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2194,
+        "competition_id": 3,
+        "student_competition_score": 46,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1216,
+        "competition_id": 18,
+        "student_competition_score": 78,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 622,
+        "competition_id": 6,
+        "student_competition_score": 78,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 26,
+        "competition_id": 19,
+        "student_competition_score": 45,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 852,
+        "competition_id": 5,
+        "student_competition_score": 77,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1106,
+        "competition_id": 3,
+        "student_competition_score": 31,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2323,
+        "competition_id": 5,
+        "student_competition_score": 28,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1470,
+        "competition_id": 12,
+        "student_competition_score": 48,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 419,
+        "competition_id": 9,
+        "student_competition_score": 17,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1092,
+        "competition_id": 15,
+        "student_competition_score": 13,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1127,
+        "competition_id": 4,
+        "student_competition_score": 93,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 188,
+        "competition_id": 1,
+        "student_competition_score": 67,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 943,
+        "competition_id": 6,
+        "student_competition_score": 4,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 75,
+        "competition_id": 18,
+        "student_competition_score": 68,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 341,
+        "competition_id": 14,
+        "student_competition_score": 77,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 501,
+        "competition_id": 14,
+        "student_competition_score": 19,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2207,
+        "competition_id": 18,
+        "student_competition_score": 75,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 811,
+        "competition_id": 11,
+        "student_competition_score": 70,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 648,
+        "competition_id": 2,
+        "student_competition_score": 28,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2326,
+        "competition_id": 15,
+        "student_competition_score": 38,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2135,
+        "competition_id": 6,
+        "student_competition_score": 28,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2133,
+        "competition_id": 2,
+        "student_competition_score": 35,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1108,
+        "competition_id": 19,
+        "student_competition_score": 79,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 759,
+        "competition_id": 18,
+        "student_competition_score": 37,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1444,
+        "competition_id": 9,
+        "student_competition_score": 13,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1387,
+        "competition_id": 7,
+        "student_competition_score": 45,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 979,
+        "competition_id": 1,
+        "student_competition_score": 72,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1647,
+        "competition_id": 15,
+        "student_competition_score": 73,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2038,
+        "competition_id": 4,
+        "student_competition_score": 25,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2335,
+        "competition_id": 8,
+        "student_competition_score": 63,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 299,
+        "competition_id": 1,
+        "student_competition_score": 32,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1364,
+        "competition_id": 3,
+        "student_competition_score": 50,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1376,
+        "competition_id": 7,
+        "student_competition_score": 85,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1090,
+        "competition_id": 4,
+        "student_competition_score": 95,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1259,
+        "competition_id": 9,
+        "student_competition_score": 91,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 529,
+        "competition_id": 3,
+        "student_competition_score": 18,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 502,
+        "competition_id": 2,
+        "student_competition_score": 66,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 695,
+        "competition_id": 4,
+        "student_competition_score": 40,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1120,
+        "competition_id": 13,
+        "student_competition_score": 73,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 827,
+        "competition_id": 13,
+        "student_competition_score": 62,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1870,
+        "competition_id": 3,
+        "student_competition_score": 32,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1020,
+        "competition_id": 14,
+        "student_competition_score": 54,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1575,
+        "competition_id": 14,
+        "student_competition_score": 83,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2398,
+        "competition_id": 5,
+        "student_competition_score": 11,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1554,
+        "competition_id": 18,
+        "student_competition_score": 28,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2278,
+        "competition_id": 3,
+        "student_competition_score": 32,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1809,
+        "competition_id": 16,
+        "student_competition_score": 51,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1043,
+        "competition_id": 8,
+        "student_competition_score": 25,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1959,
+        "competition_id": 13,
+        "student_competition_score": 72,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1636,
+        "competition_id": 10,
+        "student_competition_score": 65,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1605,
+        "competition_id": 5,
+        "student_competition_score": 75,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1562,
+        "competition_id": 15,
+        "student_competition_score": 88,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1022,
+        "competition_id": 14,
+        "student_competition_score": 68,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1518,
+        "competition_id": 16,
+        "student_competition_score": 30,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1579,
+        "competition_id": 4,
+        "student_competition_score": 64,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 247,
+        "competition_id": 19,
+        "student_competition_score": 13,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 63,
+        "competition_id": 6,
+        "student_competition_score": 87,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1192,
+        "competition_id": 10,
+        "student_competition_score": 33,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1526,
+        "competition_id": 15,
+        "student_competition_score": 25,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 734,
+        "competition_id": 18,
+        "student_competition_score": 56,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1584,
+        "competition_id": 12,
+        "student_competition_score": 2,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1997,
+        "competition_id": 11,
+        "student_competition_score": 70,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2297,
+        "competition_id": 19,
+        "student_competition_score": 84,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2307,
+        "competition_id": 5,
+        "student_competition_score": 59,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 875,
+        "competition_id": 9,
+        "student_competition_score": 20,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1531,
+        "competition_id": 4,
+        "student_competition_score": 94,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 361,
+        "competition_id": 16,
+        "student_competition_score": 36,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1774,
+        "competition_id": 8,
+        "student_competition_score": 20,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1244,
+        "competition_id": 8,
+        "student_competition_score": 69,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 681,
+        "competition_id": 20,
+        "student_competition_score": 85,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1151,
+        "competition_id": 14,
+        "student_competition_score": 74,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1853,
+        "competition_id": 18,
+        "student_competition_score": 64,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 264,
+        "competition_id": 10,
+        "student_competition_score": 43,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 787,
+        "competition_id": 15,
+        "student_competition_score": 12,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1461,
+        "competition_id": 19,
+        "student_competition_score": 28,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2085,
+        "competition_id": 1,
+        "student_competition_score": 40,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2111,
+        "competition_id": 19,
+        "student_competition_score": 93,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1245,
+        "competition_id": 10,
+        "student_competition_score": 49,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1253,
+        "competition_id": 12,
+        "student_competition_score": 17,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 266,
+        "competition_id": 16,
+        "student_competition_score": 45,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 487,
+        "competition_id": 4,
+        "student_competition_score": 47,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 899,
+        "competition_id": 5,
+        "student_competition_score": 73,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1866,
+        "competition_id": 15,
+        "student_competition_score": 7,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 386,
+        "competition_id": 19,
+        "student_competition_score": 56,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1984,
+        "competition_id": 18,
+        "student_competition_score": 71,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2195,
+        "competition_id": 8,
+        "student_competition_score": 94,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2241,
+        "competition_id": 15,
+        "student_competition_score": 53,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 968,
+        "competition_id": 11,
+        "student_competition_score": 89,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1853,
+        "competition_id": 17,
+        "student_competition_score": 71,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1220,
+        "competition_id": 11,
+        "student_competition_score": 100,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1901,
+        "competition_id": 1,
+        "student_competition_score": 6,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 106,
+        "competition_id": 20,
+        "student_competition_score": 80,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1744,
+        "competition_id": 1,
+        "student_competition_score": 38,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 624,
+        "competition_id": 4,
+        "student_competition_score": 59,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 262,
+        "competition_id": 4,
+        "student_competition_score": 74,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1631,
+        "competition_id": 15,
+        "student_competition_score": 66,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1523,
+        "competition_id": 4,
+        "student_competition_score": 75,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 509,
+        "competition_id": 11,
+        "student_competition_score": 48,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1521,
+        "competition_id": 1,
+        "student_competition_score": 76,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1339,
+        "competition_id": 11,
+        "student_competition_score": 56,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1443,
+        "competition_id": 6,
+        "student_competition_score": 59,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2394,
+        "competition_id": 18,
+        "student_competition_score": 73,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1632,
+        "competition_id": 17,
+        "student_competition_score": 47,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 4,
+        "competition_id": 13,
+        "student_competition_score": 77,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1592,
+        "competition_id": 20,
+        "student_competition_score": 70,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2240,
+        "competition_id": 15,
+        "student_competition_score": 24,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 457,
+        "competition_id": 9,
+        "student_competition_score": 73,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 586,
+        "competition_id": 1,
+        "student_competition_score": 62,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 99,
+        "competition_id": 2,
+        "student_competition_score": 76,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2240,
+        "competition_id": 11,
+        "student_competition_score": 13,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 240,
+        "competition_id": 9,
+        "student_competition_score": 46,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2053,
+        "competition_id": 11,
+        "student_competition_score": 76,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1415,
+        "competition_id": 18,
+        "student_competition_score": 91,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1614,
+        "competition_id": 12,
+        "student_competition_score": 70,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1015,
+        "competition_id": 6,
+        "student_competition_score": 45,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1436,
+        "competition_id": 17,
+        "student_competition_score": 100,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1134,
+        "competition_id": 4,
+        "student_competition_score": 82,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2275,
+        "competition_id": 20,
+        "student_competition_score": 29,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 680,
+        "competition_id": 11,
+        "student_competition_score": 42,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 325,
+        "competition_id": 2,
+        "student_competition_score": 84,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 384,
+        "competition_id": 7,
+        "student_competition_score": 11,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1391,
+        "competition_id": 16,
+        "student_competition_score": 80,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 781,
+        "competition_id": 2,
+        "student_competition_score": 67,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 253,
+        "competition_id": 12,
+        "student_competition_score": 69,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2024,
+        "competition_id": 1,
+        "student_competition_score": 38,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2006,
+        "competition_id": 11,
+        "student_competition_score": 52,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1469,
+        "competition_id": 3,
+        "student_competition_score": 7,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1256,
+        "competition_id": 12,
+        "student_competition_score": 13,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1370,
+        "competition_id": 3,
+        "student_competition_score": 59,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1049,
+        "competition_id": 6,
+        "student_competition_score": 83,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1342,
+        "competition_id": 1,
+        "student_competition_score": 75,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1843,
+        "competition_id": 2,
+        "student_competition_score": 4,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 818,
+        "competition_id": 20,
+        "student_competition_score": 71,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 410,
+        "competition_id": 17,
+        "student_competition_score": 13,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 94,
+        "competition_id": 4,
+        "student_competition_score": 87,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 668,
+        "competition_id": 20,
+        "student_competition_score": 52,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 760,
+        "competition_id": 9,
+        "student_competition_score": 9,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1367,
+        "competition_id": 5,
+        "student_competition_score": 50,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 534,
+        "competition_id": 9,
+        "student_competition_score": 70,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1029,
+        "competition_id": 16,
+        "student_competition_score": 44,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1022,
+        "competition_id": 1,
+        "student_competition_score": 56,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 32,
+        "competition_id": 15,
+        "student_competition_score": 13,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 961,
+        "competition_id": 4,
+        "student_competition_score": 12,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1406,
+        "competition_id": 12,
+        "student_competition_score": 46,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 67,
+        "competition_id": 3,
+        "student_competition_score": 72,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2343,
+        "competition_id": 7,
+        "student_competition_score": 53,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 965,
+        "competition_id": 11,
+        "student_competition_score": 1,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1542,
+        "competition_id": 14,
+        "student_competition_score": 47,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 803,
+        "competition_id": 9,
+        "student_competition_score": 19,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1592,
+        "competition_id": 1,
+        "student_competition_score": 20,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 331,
+        "competition_id": 19,
+        "student_competition_score": 13,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1052,
+        "competition_id": 18,
+        "student_competition_score": 66,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 705,
+        "competition_id": 5,
+        "student_competition_score": 100,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 690,
+        "competition_id": 9,
+        "student_competition_score": 59,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 560,
+        "competition_id": 3,
+        "student_competition_score": 70,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 427,
+        "competition_id": 10,
+        "student_competition_score": 91,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 287,
+        "competition_id": 2,
+        "student_competition_score": 9,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1956,
+        "competition_id": 5,
+        "student_competition_score": 74,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 538,
+        "competition_id": 6,
+        "student_competition_score": 49,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1200,
+        "competition_id": 19,
+        "student_competition_score": 46,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1948,
+        "competition_id": 4,
+        "student_competition_score": 53,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1945,
+        "competition_id": 18,
+        "student_competition_score": 12,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1338,
+        "competition_id": 9,
+        "student_competition_score": 61,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1403,
+        "competition_id": 15,
+        "student_competition_score": 36,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1232,
+        "competition_id": 9,
+        "student_competition_score": 4,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 292,
+        "competition_id": 7,
+        "student_competition_score": 90,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1370,
+        "competition_id": 7,
+        "student_competition_score": 5,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 883,
+        "competition_id": 2,
+        "student_competition_score": 9,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1221,
+        "competition_id": 2,
+        "student_competition_score": 33,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 721,
+        "competition_id": 11,
+        "student_competition_score": 28,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1019,
+        "competition_id": 13,
+        "student_competition_score": 60,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2066,
+        "competition_id": 19,
+        "student_competition_score": 1,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1807,
+        "competition_id": 18,
+        "student_competition_score": 70,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 909,
+        "competition_id": 14,
+        "student_competition_score": 38,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1027,
+        "competition_id": 3,
+        "student_competition_score": 19,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1400,
+        "competition_id": 8,
+        "student_competition_score": 69,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1388,
+        "competition_id": 9,
+        "student_competition_score": 17,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1098,
+        "competition_id": 6,
+        "student_competition_score": 0,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1340,
+        "competition_id": 12,
+        "student_competition_score": 7,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2222,
+        "competition_id": 1,
+        "student_competition_score": 11,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1692,
+        "competition_id": 17,
+        "student_competition_score": 6,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2196,
+        "competition_id": 20,
+        "student_competition_score": 76,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1974,
+        "competition_id": 1,
+        "student_competition_score": 4,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 88,
+        "competition_id": 11,
+        "student_competition_score": 71,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1365,
+        "competition_id": 15,
+        "student_competition_score": 9,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 967,
+        "competition_id": 8,
+        "student_competition_score": 77,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1438,
+        "competition_id": 4,
+        "student_competition_score": 90,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 826,
+        "competition_id": 16,
+        "student_competition_score": 69,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 658,
+        "competition_id": 12,
+        "student_competition_score": 80,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1232,
+        "competition_id": 16,
+        "student_competition_score": 95,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 168,
+        "competition_id": 8,
+        "student_competition_score": 7,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2085,
+        "competition_id": 7,
+        "student_competition_score": 58,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1942,
+        "competition_id": 6,
+        "student_competition_score": 90,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 552,
+        "competition_id": 17,
+        "student_competition_score": 5,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1822,
+        "competition_id": 8,
+        "student_competition_score": 62,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2223,
+        "competition_id": 12,
+        "student_competition_score": 88,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 508,
+        "competition_id": 15,
+        "student_competition_score": 17,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 186,
+        "competition_id": 15,
+        "student_competition_score": 25,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2319,
+        "competition_id": 2,
+        "student_competition_score": 84,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1398,
+        "competition_id": 4,
+        "student_competition_score": 25,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 376,
+        "competition_id": 9,
+        "student_competition_score": 18,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 314,
+        "competition_id": 6,
+        "student_competition_score": 14,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1274,
+        "competition_id": 16,
+        "student_competition_score": 18,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1112,
+        "competition_id": 16,
+        "student_competition_score": 37,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 221,
+        "competition_id": 3,
+        "student_competition_score": 87,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1769,
+        "competition_id": 19,
+        "student_competition_score": 9,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1509,
+        "competition_id": 13,
+        "student_competition_score": 94,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1188,
+        "competition_id": 8,
+        "student_competition_score": 1,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1550,
+        "competition_id": 11,
+        "student_competition_score": 90,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1905,
+        "competition_id": 7,
+        "student_competition_score": 100,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2023,
+        "competition_id": 7,
+        "student_competition_score": 60,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2322,
+        "competition_id": 18,
+        "student_competition_score": 41,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2353,
+        "competition_id": 5,
+        "student_competition_score": 40,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2103,
+        "competition_id": 4,
+        "student_competition_score": 35,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 972,
+        "competition_id": 8,
+        "student_competition_score": 89,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2092,
+        "competition_id": 17,
+        "student_competition_score": 59,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1048,
+        "competition_id": 6,
+        "student_competition_score": 73,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1521,
+        "competition_id": 13,
+        "student_competition_score": 54,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1192,
+        "competition_id": 5,
+        "student_competition_score": 50,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1821,
+        "competition_id": 13,
+        "student_competition_score": 77,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 891,
+        "competition_id": 10,
+        "student_competition_score": 47,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 433,
+        "competition_id": 16,
+        "student_competition_score": 6,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 87,
+        "competition_id": 8,
+        "student_competition_score": 82,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 882,
+        "competition_id": 17,
+        "student_competition_score": 88,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1499,
+        "competition_id": 19,
+        "student_competition_score": 52,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 191,
+        "competition_id": 14,
+        "student_competition_score": 73,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 114,
+        "competition_id": 1,
+        "student_competition_score": 99,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 971,
+        "competition_id": 11,
+        "student_competition_score": 99,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1308,
+        "competition_id": 8,
+        "student_competition_score": 17,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2186,
+        "competition_id": 13,
+        "student_competition_score": 95,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1669,
+        "competition_id": 9,
+        "student_competition_score": 48,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1388,
+        "competition_id": 18,
+        "student_competition_score": 5,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 387,
+        "competition_id": 11,
+        "student_competition_score": 92,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 826,
+        "competition_id": 14,
+        "student_competition_score": 17,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 481,
+        "competition_id": 15,
+        "student_competition_score": 23,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1820,
+        "competition_id": 5,
+        "student_competition_score": 10,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 517,
+        "competition_id": 5,
+        "student_competition_score": 62,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1272,
+        "competition_id": 18,
+        "student_competition_score": 12,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2291,
+        "competition_id": 11,
+        "student_competition_score": 32,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1600,
+        "competition_id": 11,
+        "student_competition_score": 52,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 561,
+        "competition_id": 12,
+        "student_competition_score": 69,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 2054,
+        "competition_id": 1,
+        "student_competition_score": 94,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1426,
+        "competition_id": 13,
+        "student_competition_score": 21,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 660,
+        "competition_id": 3,
+        "student_competition_score": 66,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1286,
+        "competition_id": 20,
+        "student_competition_score": 19,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 531,
+        "competition_id": 4,
+        "student_competition_score": 2,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2331,
+        "competition_id": 7,
+        "student_competition_score": 36,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 956,
+        "competition_id": 2,
+        "student_competition_score": 45,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 497,
+        "competition_id": 2,
+        "student_competition_score": 35,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 867,
+        "competition_id": 18,
+        "student_competition_score": 14,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1089,
+        "competition_id": 11,
+        "student_competition_score": 17,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1888,
+        "competition_id": 2,
+        "student_competition_score": 27,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1316,
+        "competition_id": 17,
+        "student_competition_score": 90,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 195,
+        "competition_id": 10,
+        "student_competition_score": 62,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 148,
+        "competition_id": 9,
+        "student_competition_score": 16,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1172,
+        "competition_id": 10,
+        "student_competition_score": 59,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1969,
+        "competition_id": 17,
+        "student_competition_score": 100,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 159,
+        "competition_id": 10,
+        "student_competition_score": 75,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1347,
+        "competition_id": 16,
+        "student_competition_score": 24,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 40,
+        "competition_id": 15,
+        "student_competition_score": 13,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 917,
+        "competition_id": 13,
+        "student_competition_score": 60,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 504,
+        "competition_id": 18,
+        "student_competition_score": 41,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1413,
+        "competition_id": 15,
+        "student_competition_score": 24,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 631,
+        "competition_id": 3,
+        "student_competition_score": 34,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1101,
+        "competition_id": 15,
+        "student_competition_score": 28,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 577,
+        "competition_id": 2,
+        "student_competition_score": 80,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 246,
+        "competition_id": 9,
+        "student_competition_score": 80,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1813,
+        "competition_id": 11,
+        "student_competition_score": 90,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1451,
+        "competition_id": 18,
+        "student_competition_score": 65,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1143,
+        "competition_id": 17,
+        "student_competition_score": 12,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 423,
+        "competition_id": 4,
+        "student_competition_score": 44,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1925,
+        "competition_id": 6,
+        "student_competition_score": 10,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 700,
+        "competition_id": 2,
+        "student_competition_score": 76,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1884,
+        "competition_id": 19,
+        "student_competition_score": 18,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2263,
+        "competition_id": 8,
+        "student_competition_score": 20,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 231,
+        "competition_id": 16,
+        "student_competition_score": 29,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2044,
+        "competition_id": 6,
+        "student_competition_score": 29,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2271,
+        "competition_id": 5,
+        "student_competition_score": 24,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1639,
+        "competition_id": 6,
+        "student_competition_score": 79,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1300,
+        "competition_id": 2,
+        "student_competition_score": 56,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 418,
+        "competition_id": 16,
+        "student_competition_score": 68,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 998,
+        "competition_id": 15,
+        "student_competition_score": 33,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2310,
+        "competition_id": 20,
+        "student_competition_score": 57,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 863,
+        "competition_id": 7,
+        "student_competition_score": 79,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2215,
+        "competition_id": 14,
+        "student_competition_score": 59,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 711,
+        "competition_id": 3,
+        "student_competition_score": 85,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 301,
+        "competition_id": 15,
+        "student_competition_score": 17,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 864,
+        "competition_id": 5,
+        "student_competition_score": 85,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1096,
+        "competition_id": 17,
+        "student_competition_score": 50,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2296,
+        "competition_id": 2,
+        "student_competition_score": 32,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 845,
+        "competition_id": 16,
+        "student_competition_score": 39,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1951,
+        "competition_id": 13,
+        "student_competition_score": 27,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 125,
+        "competition_id": 10,
+        "student_competition_score": 61,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 725,
+        "competition_id": 9,
+        "student_competition_score": 75,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1667,
+        "competition_id": 2,
+        "student_competition_score": 62,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1525,
+        "competition_id": 3,
+        "student_competition_score": 27,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1707,
+        "competition_id": 12,
+        "student_competition_score": 71,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1934,
+        "competition_id": 3,
+        "student_competition_score": 14,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 846,
+        "competition_id": 12,
+        "student_competition_score": 1,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2065,
+        "competition_id": 12,
+        "student_competition_score": 87,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2230,
+        "competition_id": 4,
+        "student_competition_score": 83,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2105,
+        "competition_id": 13,
+        "student_competition_score": 41,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 358,
+        "competition_id": 11,
+        "student_competition_score": 22,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1335,
+        "competition_id": 16,
+        "student_competition_score": 97,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 390,
+        "competition_id": 15,
+        "student_competition_score": 54,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 621,
+        "competition_id": 12,
+        "student_competition_score": 30,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1325,
+        "competition_id": 3,
+        "student_competition_score": 15,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1256,
+        "competition_id": 13,
+        "student_competition_score": 79,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 580,
+        "competition_id": 8,
+        "student_competition_score": 25,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1521,
+        "competition_id": 16,
+        "student_competition_score": 42,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 956,
+        "competition_id": 14,
+        "student_competition_score": 71,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1802,
+        "competition_id": 2,
+        "student_competition_score": 32,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2193,
+        "competition_id": 10,
+        "student_competition_score": 35,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1547,
+        "competition_id": 6,
+        "student_competition_score": 26,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 326,
+        "competition_id": 11,
+        "student_competition_score": 64,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 466,
+        "competition_id": 8,
+        "student_competition_score": 74,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1356,
+        "competition_id": 20,
+        "student_competition_score": 85,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1108,
+        "competition_id": 6,
+        "student_competition_score": 89,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1264,
+        "competition_id": 9,
+        "student_competition_score": 5,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1579,
+        "competition_id": 10,
+        "student_competition_score": 47,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1688,
+        "competition_id": 20,
+        "student_competition_score": 76,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2122,
+        "competition_id": 5,
+        "student_competition_score": 3,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 875,
+        "competition_id": 20,
+        "student_competition_score": 90,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 636,
+        "competition_id": 3,
+        "student_competition_score": 67,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1809,
+        "competition_id": 4,
+        "student_competition_score": 80,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 900,
+        "competition_id": 8,
+        "student_competition_score": 90,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 875,
+        "competition_id": 3,
+        "student_competition_score": 49,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 460,
+        "competition_id": 19,
+        "student_competition_score": 6,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2080,
+        "competition_id": 15,
+        "student_competition_score": 93,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 145,
+        "competition_id": 6,
+        "student_competition_score": 26,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2209,
+        "competition_id": 17,
+        "student_competition_score": 28,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 514,
+        "competition_id": 11,
+        "student_competition_score": 50,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 84,
+        "competition_id": 2,
+        "student_competition_score": 97,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 826,
+        "competition_id": 17,
+        "student_competition_score": 9,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2003,
+        "competition_id": 11,
+        "student_competition_score": 84,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1399,
+        "competition_id": 6,
+        "student_competition_score": 32,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 53,
+        "competition_id": 15,
+        "student_competition_score": 68,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1938,
+        "competition_id": 15,
+        "student_competition_score": 63,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1529,
+        "competition_id": 10,
+        "student_competition_score": 85,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1139,
+        "competition_id": 8,
+        "student_competition_score": 46,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1869,
+        "competition_id": 13,
+        "student_competition_score": 95,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2106,
+        "competition_id": 17,
+        "student_competition_score": 87,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1448,
+        "competition_id": 4,
+        "student_competition_score": 86,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1302,
+        "competition_id": 15,
+        "student_competition_score": 82,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2248,
+        "competition_id": 16,
+        "student_competition_score": 80,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 80,
+        "competition_id": 15,
+        "student_competition_score": 61,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1891,
+        "competition_id": 17,
+        "student_competition_score": 31,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 608,
+        "competition_id": 16,
+        "student_competition_score": 52,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2224,
+        "competition_id": 8,
+        "student_competition_score": 38,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2017,
+        "competition_id": 6,
+        "student_competition_score": 60,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 722,
+        "competition_id": 11,
+        "student_competition_score": 59,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 988,
+        "competition_id": 17,
+        "student_competition_score": 74,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1879,
+        "competition_id": 11,
+        "student_competition_score": 46,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2317,
+        "competition_id": 20,
+        "student_competition_score": 66,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2363,
+        "competition_id": 12,
+        "student_competition_score": 38,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 971,
+        "competition_id": 1,
+        "student_competition_score": 64,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 420,
+        "competition_id": 10,
+        "student_competition_score": 21,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 686,
+        "competition_id": 8,
+        "student_competition_score": 44,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2367,
+        "competition_id": 7,
+        "student_competition_score": 56,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1655,
+        "competition_id": 11,
+        "student_competition_score": 88,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 989,
+        "competition_id": 16,
+        "student_competition_score": 70,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1034,
+        "competition_id": 19,
+        "student_competition_score": 83,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1870,
+        "competition_id": 15,
+        "student_competition_score": 10,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1700,
+        "competition_id": 17,
+        "student_competition_score": 30,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1122,
+        "competition_id": 16,
+        "student_competition_score": 19,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 941,
+        "competition_id": 17,
+        "student_competition_score": 6,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 617,
+        "competition_id": 11,
+        "student_competition_score": 42,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1758,
+        "competition_id": 5,
+        "student_competition_score": 3,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1113,
+        "competition_id": 18,
+        "student_competition_score": 36,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1524,
+        "competition_id": 9,
+        "student_competition_score": 46,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 571,
+        "competition_id": 11,
+        "student_competition_score": 85,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 782,
+        "competition_id": 15,
+        "student_competition_score": 13,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 662,
+        "competition_id": 20,
+        "student_competition_score": 96,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1465,
+        "competition_id": 19,
+        "student_competition_score": 0,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 891,
+        "competition_id": 13,
+        "student_competition_score": 51,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1282,
+        "competition_id": 7,
+        "student_competition_score": 47,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1718,
+        "competition_id": 2,
+        "student_competition_score": 29,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 150,
+        "competition_id": 11,
+        "student_competition_score": 91,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 528,
+        "competition_id": 16,
+        "student_competition_score": 10,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1951,
+        "competition_id": 5,
+        "student_competition_score": 23,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 469,
+        "competition_id": 6,
+        "student_competition_score": 55,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1486,
+        "competition_id": 11,
+        "student_competition_score": 16,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1042,
+        "competition_id": 5,
+        "student_competition_score": 72,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2397,
+        "competition_id": 20,
+        "student_competition_score": 50,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2105,
+        "competition_id": 8,
+        "student_competition_score": 78,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 547,
+        "competition_id": 17,
+        "student_competition_score": 70,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1273,
+        "competition_id": 11,
+        "student_competition_score": 18,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2001,
+        "competition_id": 12,
+        "student_competition_score": 46,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 338,
+        "competition_id": 11,
+        "student_competition_score": 40,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2192,
+        "competition_id": 10,
+        "student_competition_score": 67,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2162,
+        "competition_id": 19,
+        "student_competition_score": 11,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1586,
+        "competition_id": 4,
+        "student_competition_score": 42,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 491,
+        "competition_id": 8,
+        "student_competition_score": 60,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 145,
+        "competition_id": 15,
+        "student_competition_score": 31,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1732,
+        "competition_id": 17,
+        "student_competition_score": 81,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 344,
+        "competition_id": 2,
+        "student_competition_score": 66,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 579,
+        "competition_id": 7,
+        "student_competition_score": 67,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2371,
+        "competition_id": 9,
+        "student_competition_score": 23,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 603,
+        "competition_id": 9,
+        "student_competition_score": 11,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 716,
+        "competition_id": 6,
+        "student_competition_score": 68,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 532,
+        "competition_id": 12,
+        "student_competition_score": 100,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1539,
+        "competition_id": 4,
+        "student_competition_score": 36,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2210,
+        "competition_id": 17,
+        "student_competition_score": 68,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2059,
+        "competition_id": 6,
+        "student_competition_score": 49,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1949,
+        "competition_id": 16,
+        "student_competition_score": 69,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1679,
+        "competition_id": 15,
+        "student_competition_score": 32,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 167,
+        "competition_id": 4,
+        "student_competition_score": 15,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1799,
+        "competition_id": 13,
+        "student_competition_score": 45,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1885,
+        "competition_id": 1,
+        "student_competition_score": 70,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 558,
+        "competition_id": 4,
+        "student_competition_score": 23,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 651,
+        "competition_id": 1,
+        "student_competition_score": 65,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 58,
+        "competition_id": 15,
+        "student_competition_score": 24,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2101,
+        "competition_id": 7,
+        "student_competition_score": 41,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1035,
+        "competition_id": 8,
+        "student_competition_score": 70,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 927,
+        "competition_id": 10,
+        "student_competition_score": 28,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 784,
+        "competition_id": 6,
+        "student_competition_score": 48,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 395,
+        "competition_id": 17,
+        "student_competition_score": 66,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2361,
+        "competition_id": 4,
+        "student_competition_score": 6,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 117,
+        "competition_id": 8,
+        "student_competition_score": 58,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 228,
+        "competition_id": 5,
+        "student_competition_score": 32,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1756,
+        "competition_id": 20,
+        "student_competition_score": 31,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 639,
+        "competition_id": 2,
+        "student_competition_score": 13,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 148,
+        "competition_id": 18,
+        "student_competition_score": 21,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 806,
+        "competition_id": 19,
+        "student_competition_score": 84,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1421,
+        "competition_id": 20,
+        "student_competition_score": 48,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1837,
+        "competition_id": 10,
+        "student_competition_score": 5,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1802,
+        "competition_id": 15,
+        "student_competition_score": 77,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2297,
+        "competition_id": 13,
+        "student_competition_score": 86,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 455,
+        "competition_id": 12,
+        "student_competition_score": 77,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 656,
+        "competition_id": 16,
+        "student_competition_score": 22,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1501,
+        "competition_id": 9,
+        "student_competition_score": 32,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1385,
+        "competition_id": 19,
+        "student_competition_score": 40,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 503,
+        "competition_id": 11,
+        "student_competition_score": 50,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1479,
+        "competition_id": 17,
+        "student_competition_score": 1,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 969,
+        "competition_id": 17,
+        "student_competition_score": 57,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2164,
+        "competition_id": 6,
+        "student_competition_score": 13,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1207,
+        "competition_id": 7,
+        "student_competition_score": 9,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1614,
+        "competition_id": 10,
+        "student_competition_score": 1,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 47,
+        "competition_id": 8,
+        "student_competition_score": 25,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1219,
+        "competition_id": 19,
+        "student_competition_score": 18,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1985,
+        "competition_id": 15,
+        "student_competition_score": 29,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1828,
+        "competition_id": 8,
+        "student_competition_score": 32,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 240,
+        "competition_id": 7,
+        "student_competition_score": 46,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1267,
+        "competition_id": 3,
+        "student_competition_score": 42,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 250,
+        "competition_id": 18,
+        "student_competition_score": 46,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 259,
+        "competition_id": 12,
+        "student_competition_score": 64,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1036,
+        "competition_id": 7,
+        "student_competition_score": 98,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2254,
+        "competition_id": 14,
+        "student_competition_score": 21,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 599,
+        "competition_id": 2,
+        "student_competition_score": 72,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1916,
+        "competition_id": 16,
+        "student_competition_score": 3,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 281,
+        "competition_id": 3,
+        "student_competition_score": 18,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2018,
+        "competition_id": 18,
+        "student_competition_score": 65,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1366,
+        "competition_id": 13,
+        "student_competition_score": 66,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1078,
+        "competition_id": 2,
+        "student_competition_score": 33,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 406,
+        "competition_id": 7,
+        "student_competition_score": 13,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2395,
+        "competition_id": 10,
+        "student_competition_score": 90,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 335,
+        "competition_id": 20,
+        "student_competition_score": 34,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1458,
+        "competition_id": 10,
+        "student_competition_score": 80,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 855,
+        "competition_id": 8,
+        "student_competition_score": 84,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 626,
+        "competition_id": 17,
+        "student_competition_score": 7,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 459,
+        "competition_id": 20,
+        "student_competition_score": 57,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 750,
+        "competition_id": 17,
+        "student_competition_score": 1,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1613,
+        "competition_id": 12,
+        "student_competition_score": 50,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2198,
+        "competition_id": 13,
+        "student_competition_score": 95,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2391,
+        "competition_id": 19,
+        "student_competition_score": 24,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 272,
+        "competition_id": 18,
+        "student_competition_score": 95,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 528,
+        "competition_id": 4,
+        "student_competition_score": 49,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1981,
+        "competition_id": 8,
+        "student_competition_score": 39,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1680,
+        "competition_id": 10,
+        "student_competition_score": 34,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 567,
+        "competition_id": 1,
+        "student_competition_score": 72,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 716,
+        "competition_id": 1,
+        "student_competition_score": 26,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2139,
+        "competition_id": 8,
+        "student_competition_score": 62,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1138,
+        "competition_id": 17,
+        "student_competition_score": 46,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 288,
+        "competition_id": 6,
+        "student_competition_score": 69,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 368,
+        "competition_id": 17,
+        "student_competition_score": 32,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1585,
+        "competition_id": 5,
+        "student_competition_score": 61,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 745,
+        "competition_id": 14,
+        "student_competition_score": 92,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1576,
+        "competition_id": 11,
+        "student_competition_score": 16,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 674,
+        "competition_id": 19,
+        "student_competition_score": 81,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 548,
+        "competition_id": 5,
+        "student_competition_score": 61,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 265,
+        "competition_id": 5,
+        "student_competition_score": 10,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 729,
+        "competition_id": 7,
+        "student_competition_score": 32,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1716,
+        "competition_id": 1,
+        "student_competition_score": 65,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1081,
+        "competition_id": 7,
+        "student_competition_score": 27,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2112,
+        "competition_id": 10,
+        "student_competition_score": 11,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2307,
+        "competition_id": 14,
+        "student_competition_score": 59,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 379,
+        "competition_id": 16,
+        "student_competition_score": 19,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2064,
+        "competition_id": 6,
+        "student_competition_score": 22,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2034,
+        "competition_id": 3,
+        "student_competition_score": 20,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1749,
+        "competition_id": 6,
+        "student_competition_score": 54,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 391,
+        "competition_id": 14,
+        "student_competition_score": 1,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1455,
+        "competition_id": 10,
+        "student_competition_score": 14,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1956,
+        "competition_id": 20,
+        "student_competition_score": 53,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1233,
+        "competition_id": 3,
+        "student_competition_score": 7,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 443,
+        "competition_id": 19,
+        "student_competition_score": 95,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 769,
+        "competition_id": 9,
+        "student_competition_score": 46,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2306,
+        "competition_id": 4,
+        "student_competition_score": 94,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2148,
+        "competition_id": 7,
+        "student_competition_score": 87,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2212,
+        "competition_id": 18,
+        "student_competition_score": 16,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 912,
+        "competition_id": 20,
+        "student_competition_score": 40,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 816,
+        "competition_id": 12,
+        "student_competition_score": 31,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 993,
+        "competition_id": 7,
+        "student_competition_score": 46,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1944,
+        "competition_id": 17,
+        "student_competition_score": 76,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1282,
+        "competition_id": 15,
+        "student_competition_score": 1,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2116,
+        "competition_id": 13,
+        "student_competition_score": 4,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2336,
+        "competition_id": 6,
+        "student_competition_score": 91,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1485,
+        "competition_id": 19,
+        "student_competition_score": 98,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2237,
+        "competition_id": 9,
+        "student_competition_score": 29,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1523,
+        "competition_id": 5,
+        "student_competition_score": 92,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1253,
+        "competition_id": 4,
+        "student_competition_score": 33,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 386,
+        "competition_id": 18,
+        "student_competition_score": 2,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 213,
+        "competition_id": 15,
+        "student_competition_score": 70,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2328,
+        "competition_id": 12,
+        "student_competition_score": 36,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1016,
+        "competition_id": 16,
+        "student_competition_score": 40,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1260,
+        "competition_id": 13,
+        "student_competition_score": 35,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 552,
+        "competition_id": 8,
+        "student_competition_score": 35,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1315,
+        "competition_id": 1,
+        "student_competition_score": 4,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2288,
+        "competition_id": 7,
+        "student_competition_score": 85,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 567,
+        "competition_id": 20,
+        "student_competition_score": 38,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 770,
+        "competition_id": 4,
+        "student_competition_score": 24,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1157,
+        "competition_id": 13,
+        "student_competition_score": 13,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 369,
+        "competition_id": 13,
+        "student_competition_score": 75,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 147,
+        "competition_id": 12,
+        "student_competition_score": 22,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 331,
+        "competition_id": 7,
+        "student_competition_score": 75,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1935,
+        "competition_id": 13,
+        "student_competition_score": 50,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 610,
+        "competition_id": 16,
+        "student_competition_score": 75,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1542,
+        "competition_id": 15,
+        "student_competition_score": 63,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 257,
+        "competition_id": 13,
+        "student_competition_score": 31,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 722,
+        "competition_id": 9,
+        "student_competition_score": 8,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 790,
+        "competition_id": 5,
+        "student_competition_score": 29,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1237,
+        "competition_id": 3,
+        "student_competition_score": 24,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1674,
+        "competition_id": 15,
+        "student_competition_score": 83,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1911,
+        "competition_id": 13,
+        "student_competition_score": 90,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 143,
+        "competition_id": 1,
+        "student_competition_score": 73,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 642,
+        "competition_id": 11,
+        "student_competition_score": 83,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 564,
+        "competition_id": 7,
+        "student_competition_score": 67,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1102,
+        "competition_id": 19,
+        "student_competition_score": 98,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1529,
+        "competition_id": 20,
+        "student_competition_score": 76,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1525,
+        "competition_id": 4,
+        "student_competition_score": 28,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1872,
+        "competition_id": 18,
+        "student_competition_score": 98,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 494,
+        "competition_id": 20,
+        "student_competition_score": 0,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2188,
+        "competition_id": 13,
+        "student_competition_score": 68,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1120,
+        "competition_id": 16,
+        "student_competition_score": 7,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 621,
+        "competition_id": 13,
+        "student_competition_score": 80,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 783,
+        "competition_id": 3,
+        "student_competition_score": 78,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 254,
+        "competition_id": 12,
+        "student_competition_score": 98,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1534,
+        "competition_id": 4,
+        "student_competition_score": 4,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2076,
+        "competition_id": 15,
+        "student_competition_score": 64,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 716,
+        "competition_id": 9,
+        "student_competition_score": 22,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1158,
+        "competition_id": 11,
+        "student_competition_score": 24,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1958,
+        "competition_id": 12,
+        "student_competition_score": 52,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 215,
+        "competition_id": 15,
+        "student_competition_score": 8,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2271,
+        "competition_id": 6,
+        "student_competition_score": 99,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2062,
+        "competition_id": 14,
+        "student_competition_score": 30,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1205,
+        "competition_id": 2,
+        "student_competition_score": 37,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 201,
+        "competition_id": 15,
+        "student_competition_score": 60,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2221,
+        "competition_id": 14,
+        "student_competition_score": 2,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 186,
+        "competition_id": 5,
+        "student_competition_score": 73,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1249,
+        "competition_id": 18,
+        "student_competition_score": 50,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 57,
+        "competition_id": 16,
+        "student_competition_score": 86,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 380,
+        "competition_id": 14,
+        "student_competition_score": 29,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 43,
+        "competition_id": 4,
+        "student_competition_score": 65,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 275,
+        "competition_id": 15,
+        "student_competition_score": 31,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1713,
+        "competition_id": 8,
+        "student_competition_score": 75,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2370,
+        "competition_id": 13,
+        "student_competition_score": 52,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1565,
+        "competition_id": 3,
+        "student_competition_score": 44,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 383,
+        "competition_id": 2,
+        "student_competition_score": 77,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1000,
+        "competition_id": 7,
+        "student_competition_score": 91,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 199,
+        "competition_id": 4,
+        "student_competition_score": 39,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2390,
+        "competition_id": 3,
+        "student_competition_score": 61,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1550,
+        "competition_id": 10,
+        "student_competition_score": 77,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 694,
+        "competition_id": 20,
+        "student_competition_score": 93,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1906,
+        "competition_id": 18,
+        "student_competition_score": 49,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1747,
+        "competition_id": 4,
+        "student_competition_score": 7,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1781,
+        "competition_id": 14,
+        "student_competition_score": 58,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2132,
+        "competition_id": 17,
+        "student_competition_score": 11,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1923,
+        "competition_id": 14,
+        "student_competition_score": 50,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1248,
+        "competition_id": 11,
+        "student_competition_score": 6,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2092,
+        "competition_id": 16,
+        "student_competition_score": 87,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1198,
+        "competition_id": 14,
+        "student_competition_score": 47,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1537,
+        "competition_id": 16,
+        "student_competition_score": 60,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2066,
+        "competition_id": 11,
+        "student_competition_score": 71,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 162,
+        "competition_id": 3,
+        "student_competition_score": 13,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2102,
+        "competition_id": 9,
+        "student_competition_score": 13,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1998,
+        "competition_id": 8,
+        "student_competition_score": 23,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2097,
+        "competition_id": 15,
+        "student_competition_score": 55,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2065,
+        "competition_id": 6,
+        "student_competition_score": 83,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1572,
+        "competition_id": 7,
+        "student_competition_score": 57,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 698,
+        "competition_id": 20,
+        "student_competition_score": 50,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1530,
+        "competition_id": 4,
+        "student_competition_score": 32,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1054,
+        "competition_id": 1,
+        "student_competition_score": 94,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 751,
+        "competition_id": 13,
+        "student_competition_score": 72,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 403,
+        "competition_id": 15,
+        "student_competition_score": 88,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 196,
+        "competition_id": 10,
+        "student_competition_score": 46,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 65,
+        "competition_id": 18,
+        "student_competition_score": 96,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 836,
+        "competition_id": 9,
+        "student_competition_score": 54,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1798,
+        "competition_id": 1,
+        "student_competition_score": 0,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 377,
+        "competition_id": 20,
+        "student_competition_score": 31,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1574,
+        "competition_id": 5,
+        "student_competition_score": 19,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2092,
+        "competition_id": 19,
+        "student_competition_score": 73,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1222,
+        "competition_id": 6,
+        "student_competition_score": 95,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 303,
+        "competition_id": 11,
+        "student_competition_score": 17,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1054,
+        "competition_id": 10,
+        "student_competition_score": 71,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1833,
+        "competition_id": 8,
+        "student_competition_score": 71,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 887,
+        "competition_id": 14,
+        "student_competition_score": 22,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1301,
+        "competition_id": 17,
+        "student_competition_score": 95,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1073,
+        "competition_id": 2,
+        "student_competition_score": 74,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1655,
+        "competition_id": 13,
+        "student_competition_score": 6,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1410,
+        "competition_id": 14,
+        "student_competition_score": 99,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1391,
+        "competition_id": 5,
+        "student_competition_score": 64,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1136,
+        "competition_id": 9,
+        "student_competition_score": 5,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1943,
+        "competition_id": 14,
+        "student_competition_score": 87,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1393,
+        "competition_id": 20,
+        "student_competition_score": 92,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2341,
+        "competition_id": 18,
+        "student_competition_score": 26,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 167,
+        "competition_id": 16,
+        "student_competition_score": 29,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1428,
+        "competition_id": 16,
+        "student_competition_score": 0,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1174,
+        "competition_id": 5,
+        "student_competition_score": 82,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 849,
+        "competition_id": 17,
+        "student_competition_score": 95,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1491,
+        "competition_id": 16,
+        "student_competition_score": 83,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 125,
+        "competition_id": 17,
+        "student_competition_score": 42,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2088,
+        "competition_id": 12,
+        "student_competition_score": 83,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 395,
+        "competition_id": 16,
+        "student_competition_score": 93,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 36,
+        "competition_id": 16,
+        "student_competition_score": 16,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1174,
+        "competition_id": 9,
+        "student_competition_score": 42,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 294,
+        "competition_id": 13,
+        "student_competition_score": 17,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2354,
+        "competition_id": 14,
+        "student_competition_score": 1,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2034,
+        "competition_id": 12,
+        "student_competition_score": 87,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1315,
+        "competition_id": 5,
+        "student_competition_score": 72,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1370,
+        "competition_id": 20,
+        "student_competition_score": 25,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 356,
+        "competition_id": 12,
+        "student_competition_score": 50,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 455,
+        "competition_id": 2,
+        "student_competition_score": 78,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 915,
+        "competition_id": 15,
+        "student_competition_score": 64,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1987,
+        "competition_id": 5,
+        "student_competition_score": 42,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 819,
+        "competition_id": 13,
+        "student_competition_score": 85,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1201,
+        "competition_id": 5,
+        "student_competition_score": 33,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1210,
+        "competition_id": 9,
+        "student_competition_score": 22,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1142,
+        "competition_id": 14,
+        "student_competition_score": 74,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1830,
+        "competition_id": 1,
+        "student_competition_score": 95,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1515,
+        "competition_id": 5,
+        "student_competition_score": 58,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 805,
+        "competition_id": 14,
+        "student_competition_score": 47,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1388,
+        "competition_id": 12,
+        "student_competition_score": 14,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1282,
+        "competition_id": 18,
+        "student_competition_score": 92,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 577,
+        "competition_id": 11,
+        "student_competition_score": 8,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1381,
+        "competition_id": 3,
+        "student_competition_score": 80,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1292,
+        "competition_id": 18,
+        "student_competition_score": 26,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1653,
+        "competition_id": 1,
+        "student_competition_score": 31,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1401,
+        "competition_id": 9,
+        "student_competition_score": 96,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1062,
+        "competition_id": 9,
+        "student_competition_score": 10,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 401,
+        "competition_id": 20,
+        "student_competition_score": 44,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1809,
+        "competition_id": 14,
+        "student_competition_score": 7,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 771,
+        "competition_id": 2,
+        "student_competition_score": 36,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1953,
+        "competition_id": 9,
+        "student_competition_score": 92,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 672,
+        "competition_id": 7,
+        "student_competition_score": 33,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2157,
+        "competition_id": 20,
+        "student_competition_score": 47,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1675,
+        "competition_id": 17,
+        "student_competition_score": 60,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1781,
+        "competition_id": 8,
+        "student_competition_score": 25,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1685,
+        "competition_id": 14,
+        "student_competition_score": 18,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2069,
+        "competition_id": 16,
+        "student_competition_score": 9,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1544,
+        "competition_id": 5,
+        "student_competition_score": 43,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1692,
+        "competition_id": 2,
+        "student_competition_score": 16,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1983,
+        "competition_id": 20,
+        "student_competition_score": 39,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1532,
+        "competition_id": 18,
+        "student_competition_score": 81,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1572,
+        "competition_id": 9,
+        "student_competition_score": 44,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1193,
+        "competition_id": 2,
+        "student_competition_score": 45,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 17,
+        "competition_id": 2,
+        "student_competition_score": 72,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1301,
+        "competition_id": 20,
+        "student_competition_score": 95,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 350,
+        "competition_id": 19,
+        "student_competition_score": 1,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2344,
+        "competition_id": 1,
+        "student_competition_score": 94,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1684,
+        "competition_id": 16,
+        "student_competition_score": 39,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 20,
+        "competition_id": 2,
+        "student_competition_score": 88,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1999,
+        "competition_id": 4,
+        "student_competition_score": 79,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 117,
+        "competition_id": 6,
+        "student_competition_score": 52,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 690,
+        "competition_id": 15,
+        "student_competition_score": 1,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 876,
+        "competition_id": 4,
+        "student_competition_score": 0,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2014,
+        "competition_id": 20,
+        "student_competition_score": 65,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2115,
+        "competition_id": 20,
+        "student_competition_score": 64,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 333,
+        "competition_id": 7,
+        "student_competition_score": 91,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 443,
+        "competition_id": 7,
+        "student_competition_score": 100,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1152,
+        "competition_id": 12,
+        "student_competition_score": 29,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 782,
+        "competition_id": 20,
+        "student_competition_score": 24,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 624,
+        "competition_id": 12,
+        "student_competition_score": 51,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2182,
+        "competition_id": 19,
+        "student_competition_score": 65,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 900,
+        "competition_id": 7,
+        "student_competition_score": 37,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2217,
+        "competition_id": 7,
+        "student_competition_score": 11,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 66,
+        "competition_id": 13,
+        "student_competition_score": 57,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 785,
+        "competition_id": 20,
+        "student_competition_score": 25,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1981,
+        "competition_id": 15,
+        "student_competition_score": 1,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 417,
+        "competition_id": 10,
+        "student_competition_score": 41,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1449,
+        "competition_id": 19,
+        "student_competition_score": 48,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1273,
+        "competition_id": 14,
+        "student_competition_score": 6,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 147,
+        "competition_id": 19,
+        "student_competition_score": 6,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1514,
+        "competition_id": 1,
+        "student_competition_score": 5,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 783,
+        "competition_id": 15,
+        "student_competition_score": 92,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 665,
+        "competition_id": 11,
+        "student_competition_score": 59,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1123,
+        "competition_id": 5,
+        "student_competition_score": 39,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1546,
+        "competition_id": 4,
+        "student_competition_score": 71,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 195,
+        "competition_id": 8,
+        "student_competition_score": 75,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1846,
+        "competition_id": 13,
+        "student_competition_score": 11,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 522,
+        "competition_id": 8,
+        "student_competition_score": 91,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 629,
+        "competition_id": 17,
+        "student_competition_score": 62,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 634,
+        "competition_id": 14,
+        "student_competition_score": 29,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 845,
+        "competition_id": 2,
+        "student_competition_score": 37,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 136,
+        "competition_id": 1,
+        "student_competition_score": 83,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 571,
+        "competition_id": 1,
+        "student_competition_score": 11,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1477,
+        "competition_id": 12,
+        "student_competition_score": 86,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 419,
+        "competition_id": 18,
+        "student_competition_score": 4,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 899,
+        "competition_id": 11,
+        "student_competition_score": 40,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 433,
+        "competition_id": 11,
+        "student_competition_score": 70,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1686,
+        "competition_id": 13,
+        "student_competition_score": 96,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1889,
+        "competition_id": 16,
+        "student_competition_score": 23,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 677,
+        "competition_id": 6,
+        "student_competition_score": 32,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 666,
+        "competition_id": 18,
+        "student_competition_score": 97,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 410,
+        "competition_id": 5,
+        "student_competition_score": 15,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 541,
+        "competition_id": 4,
+        "student_competition_score": 86,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 341,
+        "competition_id": 19,
+        "student_competition_score": 66,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1100,
+        "competition_id": 17,
+        "student_competition_score": 98,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 516,
+        "competition_id": 9,
+        "student_competition_score": 22,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1807,
+        "competition_id": 9,
+        "student_competition_score": 1,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1212,
+        "competition_id": 17,
+        "student_competition_score": 73,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2200,
+        "competition_id": 3,
+        "student_competition_score": 30,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1710,
+        "competition_id": 11,
+        "student_competition_score": 77,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 523,
+        "competition_id": 18,
+        "student_competition_score": 46,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 708,
+        "competition_id": 15,
+        "student_competition_score": 15,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1775,
+        "competition_id": 7,
+        "student_competition_score": 23,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 272,
+        "competition_id": 6,
+        "student_competition_score": 68,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 385,
+        "competition_id": 11,
+        "student_competition_score": 79,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 901,
+        "competition_id": 9,
+        "student_competition_score": 73,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1713,
+        "competition_id": 7,
+        "student_competition_score": 91,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 606,
+        "competition_id": 6,
+        "student_competition_score": 21,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 550,
+        "competition_id": 16,
+        "student_competition_score": 12,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1218,
+        "competition_id": 10,
+        "student_competition_score": 84,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 396,
+        "competition_id": 6,
+        "student_competition_score": 69,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 157,
+        "competition_id": 16,
+        "student_competition_score": 38,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 108,
+        "competition_id": 7,
+        "student_competition_score": 18,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1310,
+        "competition_id": 4,
+        "student_competition_score": 92,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 508,
+        "competition_id": 14,
+        "student_competition_score": 56,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 973,
+        "competition_id": 16,
+        "student_competition_score": 3,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 794,
+        "competition_id": 4,
+        "student_competition_score": 74,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2370,
+        "competition_id": 19,
+        "student_competition_score": 34,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 904,
+        "competition_id": 6,
+        "student_competition_score": 41,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 65,
+        "competition_id": 17,
+        "student_competition_score": 53,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1787,
+        "competition_id": 12,
+        "student_competition_score": 51,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1126,
+        "competition_id": 16,
+        "student_competition_score": 98,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1192,
+        "competition_id": 9,
+        "student_competition_score": 15,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1588,
+        "competition_id": 15,
+        "student_competition_score": 34,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1755,
+        "competition_id": 7,
+        "student_competition_score": 96,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 432,
+        "competition_id": 4,
+        "student_competition_score": 14,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 211,
+        "competition_id": 17,
+        "student_competition_score": 43,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 2356,
+        "competition_id": 19,
+        "student_competition_score": 5,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 470,
+        "competition_id": 15,
+        "student_competition_score": 99,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 305,
+        "competition_id": 6,
+        "student_competition_score": 84,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1822,
+        "competition_id": 17,
+        "student_competition_score": 10,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 508,
+        "competition_id": 18,
+        "student_competition_score": 8,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 26,
+        "competition_id": 13,
+        "student_competition_score": 47,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1526,
+        "competition_id": 2,
+        "student_competition_score": 79,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 935,
+        "competition_id": 16,
+        "student_competition_score": 71,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 155,
+        "competition_id": 17,
+        "student_competition_score": 28,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1936,
+        "competition_id": 16,
+        "student_competition_score": 36,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2004,
+        "competition_id": 3,
+        "student_competition_score": 15,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1258,
+        "competition_id": 20,
+        "student_competition_score": 40,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2055,
+        "competition_id": 19,
+        "student_competition_score": 53,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 262,
+        "competition_id": 13,
+        "student_competition_score": 66,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1986,
+        "competition_id": 9,
+        "student_competition_score": 12,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 403,
+        "competition_id": 17,
+        "student_competition_score": 64,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1202,
+        "competition_id": 14,
+        "student_competition_score": 100,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1210,
+        "competition_id": 2,
+        "student_competition_score": 5,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2325,
+        "competition_id": 11,
+        "student_competition_score": 86,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2177,
+        "competition_id": 12,
+        "student_competition_score": 61,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 280,
+        "competition_id": 1,
+        "student_competition_score": 72,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 788,
+        "competition_id": 16,
+        "student_competition_score": 60,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 97,
+        "competition_id": 16,
+        "student_competition_score": 93,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 1714,
+        "competition_id": 20,
+        "student_competition_score": 42,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1767,
+        "competition_id": 15,
+        "student_competition_score": 0,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1725,
+        "competition_id": 3,
+        "student_competition_score": 39,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1808,
+        "competition_id": 19,
+        "student_competition_score": 24,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1172,
+        "competition_id": 4,
+        "student_competition_score": 12,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1627,
+        "competition_id": 17,
+        "student_competition_score": 96,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 584,
+        "competition_id": 11,
+        "student_competition_score": 92,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2302,
+        "competition_id": 5,
+        "student_competition_score": 21,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 3,
+        "competition_id": 16,
+        "student_competition_score": 46,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2198,
+        "competition_id": 3,
+        "student_competition_score": 70,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 814,
+        "competition_id": 4,
+        "student_competition_score": 12,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1300,
+        "competition_id": 6,
+        "student_competition_score": 13,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 989,
+        "competition_id": 9,
+        "student_competition_score": 64,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 2280,
+        "competition_id": 10,
+        "student_competition_score": 49,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 223,
+        "competition_id": 20,
+        "student_competition_score": 47,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1669,
+        "competition_id": 17,
+        "student_competition_score": 36,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 770,
+        "competition_id": 19,
+        "student_competition_score": 29,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1374,
+        "competition_id": 2,
+        "student_competition_score": 69,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1730,
+        "competition_id": 4,
+        "student_competition_score": 64,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 789,
+        "competition_id": 9,
+        "student_competition_score": 10,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 980,
+        "competition_id": 14,
+        "student_competition_score": 85,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 439,
+        "competition_id": 20,
+        "student_competition_score": 71,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1200,
+        "competition_id": 10,
+        "student_competition_score": 17,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1575,
+        "competition_id": 3,
+        "student_competition_score": 12,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 13,
+        "competition_id": 12,
+        "student_competition_score": 68,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 470,
+        "competition_id": 14,
+        "student_competition_score": 100,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2031,
+        "competition_id": 20,
+        "student_competition_score": 26,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 430,
+        "competition_id": 18,
+        "student_competition_score": 84,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2291,
+        "competition_id": 19,
+        "student_competition_score": 34,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 834,
+        "competition_id": 5,
+        "student_competition_score": 50,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1246,
+        "competition_id": 10,
+        "student_competition_score": 7,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1188,
+        "competition_id": 11,
+        "student_competition_score": 20,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 1911,
+        "competition_id": 5,
+        "student_competition_score": 29,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 923,
+        "competition_id": 7,
+        "student_competition_score": 67,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1562,
+        "competition_id": 10,
+        "student_competition_score": 100,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 807,
+        "competition_id": 14,
+        "student_competition_score": 99,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1887,
+        "competition_id": 11,
+        "student_competition_score": 22,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1935,
+        "competition_id": 10,
+        "student_competition_score": 28,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1193,
+        "competition_id": 5,
+        "student_competition_score": 10,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1566,
+        "competition_id": 10,
+        "student_competition_score": 31,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 890,
+        "competition_id": 14,
+        "student_competition_score": 77,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 36,
+        "competition_id": 1,
+        "student_competition_score": 50,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 1737,
+        "competition_id": 16,
+        "student_competition_score": 94,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 212,
+        "competition_id": 8,
+        "student_competition_score": 59,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1311,
+        "competition_id": 3,
+        "student_competition_score": 14,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 355,
+        "competition_id": 18,
+        "student_competition_score": 75,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 1950,
+        "competition_id": 20,
+        "student_competition_score": 77,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1641,
+        "competition_id": 9,
+        "student_competition_score": 22,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 827,
+        "competition_id": 2,
+        "student_competition_score": 28,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 949,
+        "competition_id": 9,
+        "student_competition_score": 8,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1719,
+        "competition_id": 16,
+        "student_competition_score": 96,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 363,
+        "competition_id": 10,
+        "student_competition_score": 24,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 704,
+        "competition_id": 11,
+        "student_competition_score": 61,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 928,
+        "competition_id": 14,
+        "student_competition_score": 43,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 375,
+        "competition_id": 11,
+        "student_competition_score": 0,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1623,
+        "competition_id": 16,
+        "student_competition_score": 78,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1260,
+        "competition_id": 9,
+        "student_competition_score": 80,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 217,
+        "competition_id": 16,
+        "student_competition_score": 57,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 954,
+        "competition_id": 4,
+        "student_competition_score": 26,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2106,
+        "competition_id": 10,
+        "student_competition_score": 12,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 847,
+        "competition_id": 14,
+        "student_competition_score": 86,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 1972,
+        "competition_id": 9,
+        "student_competition_score": 56,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 463,
+        "competition_id": 16,
+        "student_competition_score": 27,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2166,
+        "competition_id": 1,
+        "student_competition_score": 84,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1016,
+        "competition_id": 6,
+        "student_competition_score": 96,
+        "student_competition_year": 2012
+    },
+    {
+        "student_id": 2396,
+        "competition_id": 16,
+        "student_competition_score": 19,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 995,
+        "competition_id": 16,
+        "student_competition_score": 56,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1446,
+        "competition_id": 18,
+        "student_competition_score": 53,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 910,
+        "competition_id": 6,
+        "student_competition_score": 58,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 873,
+        "competition_id": 6,
+        "student_competition_score": 8,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 2026,
+        "competition_id": 19,
+        "student_competition_score": 1,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 447,
+        "competition_id": 1,
+        "student_competition_score": 74,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 2071,
+        "competition_id": 19,
+        "student_competition_score": 8,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 655,
+        "competition_id": 17,
+        "student_competition_score": 53,
+        "student_competition_year": 2011
+    },
+    {
+        "student_id": 764,
+        "competition_id": 16,
+        "student_competition_score": 25,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 1695,
+        "competition_id": 14,
+        "student_competition_score": 81,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 988,
+        "competition_id": 13,
+        "student_competition_score": 14,
+        "student_competition_year": 2014
+    },
+    {
+        "student_id": 2374,
+        "competition_id": 17,
+        "student_competition_score": 59,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 1580,
+        "competition_id": 6,
+        "student_competition_score": 2,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 468,
+        "competition_id": 1,
+        "student_competition_score": 67,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 2037,
+        "competition_id": 11,
+        "student_competition_score": 5,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 934,
+        "competition_id": 16,
+        "student_competition_score": 70,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 536,
+        "competition_id": 15,
+        "student_competition_score": 57,
+        "student_competition_year": 2010
+    },
+    {
+        "student_id": 2042,
+        "competition_id": 19,
+        "student_competition_score": 3,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2245,
+        "competition_id": 13,
+        "student_competition_score": 11,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 2092,
+        "competition_id": 13,
+        "student_competition_score": 3,
+        "student_competition_year": 2015
+    },
+    {
+        "student_id": 356,
+        "competition_id": 1,
+        "student_competition_score": 85,
+        "student_competition_year": 2013
+    },
+    {
+        "student_id": 791,
+        "competition_id": 20,
+        "student_competition_score": 49,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 122,
+        "competition_id": 4,
+        "student_competition_score": 2,
+        "student_competition_year": 2009
+    },
+    {
+        "student_id": 1864,
+        "competition_id": 5,
+        "student_competition_score": 52,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 955,
+        "competition_id": 6,
+        "student_competition_score": 79,
+        "student_competition_year": 2016
+    },
+    {
+        "student_id": 802,
+        "competition_id": 18,
+        "student_competition_score": 77,
+        "student_competition_year": 2016
+    }
+]

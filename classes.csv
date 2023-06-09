@@ -1,0 +1,81 @@
+class_id,class_letter,class_name,class_description,class_year
+1,A,Klasa Cukierniczo-Filozoficzna,"Kurs skierowany do uczniów, którzy pragną zgłębiać tajniki istoty bytu, jednocześnie wypiekając torciki i ciasteczka. Filozofia staje się znacznie łatwiejsza do zrozumienia, gdy jej zasady omawiane są przy dekorowaniu babeczek.",2009
+2,B,Klasa Numizmatyczno-Biologiczna,"Dla tych, którzy chcieliby połączyć swoją pasję do zbierania monet ze studiowaniem różnorodności życia na Ziemi. Szkolenia obejmują analizę wpływu rzadkich monet na proces fotosyntezy u roślin.",2009
+3,C,Klasa Historyczno-Astronomiczna,"Ten unikalny program łączy w sobie analizę historycznych wydarzeń z obserwacją ciał niebieskich. Uczniowie mogą na przykład badać, jak wpływ fazy księżyca mógł wpływać na decyzje strategiczne w bitwach historycznych.",2009
+4,D,Klasa Geograficzno-Kulinarne Origami,"Dla miłośników sztuki składania papieru, którzy pragną połączyć swoje umiejętności z wiedzą na temat regionalnej kuchni różnych krajów. Zajęcia obejmują tworzenie origami w kształcie charakterystycznych potraw.",2009
+5,E,Klasa Matematyczno-Flamenco,"Dedykowana tym, którzy chcieliby połączyć radość z tańca z miłością do liczb. Zajęcia skupiają się na poszukiwaniu matematycznych wzorów w krokach i ruchach flamenco, oraz na zastosowaniu równań do choreografii.",2009
+6,F,Klasa Fotograficzno-Entomologiczna,"Idealna dla miłośników fotografii i owadów, umożliwiająca zrozumienie wpływu światła na zachowania owadów i wykorzystanie tej wiedzy do tworzenia niezapomnianych zdjęć.",2009
+7,G,Klasa Językowo-Szachowa,"Przeznaczona dla tych, którzy chcą połączyć swoje zainteresowania językami obcymi z grą w szachy, umożliwiając odkrywanie zaskakujących powiązań między gramatyką a strategiami szachowymi.",2009
+8,H,Klasa Kulinarne Skateboardingu,"Dedykowana pasjonatom gotowania i sportów ekstremalnych, nauczysz się przyrządzać dania z różnych kultur podczas wykonywania tricków na deskorolce.",2009
+9,I,Klasa Robotyczno-Baletowa,"Idealne dla miłośników technologii i tańca, ucząc jak programować roboty do wykonywania precyzyjnych ruchów baletowych.",2009
+10,J,Klasa Biologiczno-Muzykologiczna,"Połączenie nauki o życiu z nauką o muzyce, badając na przykład wpływ różnych gatunków muzycznych na wzrost roślin.",2009
+11,A,Klasa Astrologiczno-Archeologiczna,Poświęcona badaniu wpływu układów gwiazd na historię starożytnych cywilizacji.,2010
+12,B,Klasa Matematyczno-Komiksowa,"Idealne dla miłośników matematyki i komiksów, badających jak liczby i równania wpływają na strukturę i narrację w komiksach.",2010
+13,C,Klasa Chemii Eksperymentalnej Mody,Skupia się na badaniu wpływu różnych substancji chemicznych na tkaniny i ich potencjalne zastosowanie w przemyśle modowym.,2010
+14,D,Klasa Fizyczno-Sztuk Walki,"Dla tych, którzy chcą zrozumieć zasady fizyki stojące za efektywnymi technikami samoobrony.",2010
+15,E,Klasa Psychologiczno-Karate,Badanie wpływu praktyk karate na zdrowie psychiczne i emocjonalne.,2010
+16,F,Klasa Ekologiczno-Krawiecka,"Dla tych, którzy chcą połączyć pasję do ochrony środowiska z umiejętnościami szycia, np. tworząc modę z materiałów ekologicznych.",2010
+17,G,Klasa Historyczno-Jogurtowa,Analiza wpływu jogurtu na bieg historii.,2010
+18,H,Klasa Astronomiczno-Kapustnicza,"Dla tych, którzy chcą połączyć zrozumienie gwiazd i kosmosu z gotowaniem kapusty w różnych kulturach.",2010
+19,I,Klasa Geograficzno-Literacka Origami,Stworzenie modeli papierowych symbolizujących znane dzieła literackie i ich związki z różnymi lokalizacjami.,2010
+20,J,Klasa Komputerowo-Surfingowa,"Badanie, jak analiza danych z komputera może pomóc w prognozowaniu idealnych warunków do surfingu.",2010
+21,A,Klasa Botaniczno-Origami,"Składanie roślin na papierze, wykorzystując różne techniki origami.",2011
+22,B,Klasa Fizyczno-Poetycka,Badanie związku między prawami fizyki a strukturą i rytmem poezji.,2011
+23,C,Klasa Matematyczno-Kreatywna,"Wykorzystanie matematyki do stworzenia unikalnych dzieł sztuki, takich jak rzeźby czy malowidła.",2011
+24,D,Klasa Historii Sztuki i Origami,"Badanie, jak tradycyjne techniki origami mogły wpływać na rozwój sztuki przez wieki.",2011
+25,E,Klasa Literacko-Archeologiczna,"Odkrywanie, jak starożytne teksty i manuskrypty mogą rzucać nowe światło na pradawne cywilizacje.",2011
+26,F,Klasa Muzyczno-Astronomiczna,"Badanie, jak harmonia i rytm w muzyce mogą odzwierciedlać ruchy i dynamikę ciał niebieskich.",2011
+27,G,Klasa Biologiczno-Skateboardingu,Badanie wpływu jazdy na deskorolce na biologię i fizjologię człowieka.,2011
+28,H,Klasa Fizyczno-Pottery,"Zrozumienie, jak prawa fizyki wpływają na proces tworzenia ceramiki.",2011
+29,I,Klasa Chemiczno-Kulinarna,"Eksplorowanie, jak reakcje chemiczne wpływają na smak i konsystencję różnych potraw.",2011
+30,J,Klasa Psychologiczno-Komiksowa,Badanie wpływu czytania komiksów na zdrowie psychiczne.,2011
+31,A,Klasa Ekologiczno-Literacka,"Analiza, jak literatura może wpływać na naszą świadomość ekologiczną.",2012
+32,B,Klasa Historyczno-Yogi,"Zrozumienie, jak praktyka jogi wpłynęła na bieg historii.",2012
+33,C,Klasa Astronomiczno-Baletowa,"Badanie, jak pozycje planet mogą wpływać na choreografię baletu.",2012
+34,D,Klasa Geograficzno-Jogurtowa,"Analiza, jak produkcja jogurtu wpływa na różne regiony świata.",2012
+35,E,Klasa Komputerowo-Origami,Wykorzystanie komputerowego modelowania do tworzenia skomplikowanych wzorów origami.,2012
+36,F,Klasa Botaniczno-Karate,"Zrozumienie, jak rośliny mogą wpływać na praktykę karate.",2012
+37,G,Klasa Fizyczno-Numizmatyczna,"Badanie, jak prawa fizyki wpływają na tworzenie i kształt monet.",2012
+38,H,Klasa Matematyczno-Poetycka,Wykorzystanie matematyki do zrozumienia struktury i rytmu poezji.,2012
+39,I,Klasa Literacko-Szachowej,"Badanie, jak literatura wpływa na strategie szachowe.",2012
+40,J,Klasa Muzyczno-Archeologiczna,"Odkrywanie, jak starożytne instrumenty i techniki muzyczne mogły wpływać na pradawne cywilizacje.",2012
+41,A,Klasa Biologiczno-Graffiti,Badanie wpływu biologicznych składników farb do graffiti na ekosystemy miejskie.,2013
+42,B,Klasa Fizyczno-Jeździectwa,Eksplorowanie związków między prawami fizyki a technikami jeździeckimi.,2013
+43,C,Klasa Chemiczno-Kapustnicza,Zrozumienie wpływu reakcji chemicznych na smak i teksturę tradycyjnej kapusty.,2013
+44,D,Klasa Psychologiczno-Szachowa,Badanie wpływu gry w szachy na zdolności myślenia i strategii.,2013
+45,E,Klasa Ekologiczno-Sztuk Walki,Wykorzystanie zasad ochrony środowiska do zrozumienia i wprowadzania nowych technik walki.,2013
+46,F,Klasa Historyczno-Biologiczna,Odkrywanie wpływu historycznych wydarzeń na ewolucję i rozwój biologiczny.,2013
+47,G,Klasa Astronomiczno-Kulinarna,Analiza wpływu cykli księżycowych i planetarnych na uprawę składników kulinarnej.,2013
+48,H,Klasa Geograficzno-Jeździectwa,Badanie wpływu różnych geograficznych terenów na techniki jeździectwa.,2013
+49,I,Klasa Komputerowo-Kapustnicza,Wykorzystanie technologii informatycznych do optymalizacji procesu gotowania kapusty.,2013
+50,J,Klasa Botaniczno-Szachowej,Studiowanie wpływu roślinności na strategie i taktyki szachowe.,2013
+51,A,Klasa Fizyczno-Graffiti,Zrozumienie wpływu fizyki na techniki i style graffiti.,2014
+52,B,Klasa Matematyczno-Jeździectwa,Wykorzystanie matematyki do zrozumienia i poprawy technik jeździectwa.,2014
+53,C,Klasa Literacko-Kapustnicza,Analiza literackich odniesień do kapusty i jej roli w różnych kulturach.,2014
+54,D,Klasa Muzyczno-Szachowej,Badanie wpływu muzyki na strategie i taktyki szachowe.,2014
+55,E,Klasa Biologiczno-Graffiti,Zrozumienie wpływu biologii na tworzenie i interpretację graffiti.,2014
+56,F,Klasa Fizyczno-Jeździectwa,Analiza wpływu fizyki na techniki jeździectwa.,2014
+57,G,Klasa Chemiczno-Szachowej,Badanie wpływu chemii na strategie i taktyki szachowe.,2014
+58,H,Klasa Psychologiczno-Kapustnicza,Badanie wpływu spożycia kapusty na zdrowie psychiczne.,2014
+59,I,Klasa Ekologiczno-Graffiti,Zrozumienie wpływu graffiti na środowisko naturalne.,2014
+60,J,Klasa Historyczno-Jeździectwa,Analiza historycznych technik jeździectwa i ich wpływu na współczesne praktyki.,2014
+61,A,Klasa Astronomiczno-Szachowej,Badanie wpływu astronomii na strategie i taktyki szachowe.,2015
+62,B,Klasa Geograficzno-Kapustnicza,Studiowanie wpływu różnych geograficznych obszarów na uprawę kapusty.,2015
+63,C,Klasa Komputerowo-Graffiti,Wykorzystanie technologii informatycznych do tworzenia cyfrowego graffiti.,2015
+64,D,Klasa Botaniczno-Jeździectwa,Badanie wpływu roślinności na praktykę jeździectwa.,2015
+65,E,Klasa Fizyczno-Szachowej,Zrozumienie wpływu fizyki na strategie i taktyki szachowe.,2015
+66,F,Klasa Matematyczno-Kapustnicza,Wykorzystanie matematyki do optymalizacji uprawy i gotowania kapusty.,2015
+67,G,Klasa Literacko-Graffiti,Analiza literackich odniesień do graffiti i jej roli w kulturze miejskiej.,2015
+68,H,Klasa Muzyczno-Jeździectwa,Badanie wpływu muzyki na techniki jeździectwa.,2015
+69,I,Klasa Biologiczno-Szachowej,Zrozumienie wpływu biologii na strategie i taktyki szachowe.,2015
+70,J,Klasa Fizyczno-Kapustnicza,Badanie wpływu fizyki na uprawę i gotowanie kapusty.,2015
+71,A,Klasa Chemiczno-Graffiti,Analiza wpływu chemii na tworzenie graffiti.,2016
+72,B,Klasa Psychologiczno-Jeździectwa,Badanie wpływu jeździectwa na zdrowie psychiczne.,2016
+73,C,Klasa Ekologiczno-Szachowej,Zrozumienie wpływu szachów na środowisko naturalne.,2016
+74,D,Klasa Historyczno-Kapustnicza,Studiowanie wpływu kapusty na historyczne wydarzenia.,2016
+75,E,Klasa Astronomiczno-Graffiti,Badanie wpływu astronomii na tworzenie graffiti.,2016
+76,F,Klasa Geograficzno-Jeździectwa,Analiza wpływu geografii na praktykę jeździectwa.,2016
+77,G,Klasa Komputerowo-Szachowej,Wykorzystanie technologii informatycznych do poprawy strategii i taktyk szachowych.,2016
+78,H,Klasa Botaniczno-Kapustnicza,Zrozumienie wpływu botaniki na uprawę i gotowanie kapusty.,2016
+79,I,Klasa Matematyczno-Jeździectwa,Wykorzystanie matematyki do zrozumienia i poprawy technik jeździectwa.,2016
+80,J,Klasa Literacko-Szachowa,Badanie wpływu literatury na strategie i taktyki szachowe.,2016

@@ -1,0 +1,82 @@
+[
+    {
+        "competition_name": "Ogólnopolski Turniej Zestawiania Klocków LEGO Według Kodeksu Drogi Samuraja",
+        "competition_id": 1
+    },
+    {
+        "competition_name": "Konkurs Przyrodniczy Kształtowania Krajobrazu z Użyciem Ziemniaków i Porów",
+        "competition_id": 2
+    },
+    {
+        "competition_name": "Międzyszkolny Turniej Historii, Rozgrywany na Planszach Monopolu",
+        "competition_id": 3
+    },
+    {
+        "competition_name": "Mistrzostwa Polski w Matematycznej Grze w Kalambury z Liczbami",
+        "competition_id": 4
+    },
+    {
+        "competition_name": "Olimpiada Języka Polskiego z Wierszem na Łyżce",
+        "competition_id": 5
+    },
+    {
+        "competition_name": "Turniej Wielkich Mózgów: Logiczne Bitwy w Kapeluszach",
+        "competition_id": 6
+    },
+    {
+        "competition_name": "Konkurs Plastyczny Dekorowania Pudełek z Zastosowaniem Teorii Względności",
+        "competition_id": 7
+    },
+    {
+        "competition_name": "Ogólnopolskie Zawody Interpretacji Książek Bez Otwierania Ich",
+        "competition_id": 8
+    },
+    {
+        "competition_name": "Międzynarodowy Turniej Przyrodniczy Rysowania Flory i Fauny za Pomocą Ołówków HB",
+        "competition_id": 9
+    },
+    {
+        "competition_name": "Światowe Mistrzostwa w Konstruowaniu Modeli Atomów z Ciastolinu",
+        "competition_id": 10
+    },
+    {
+        "competition_name": "Konkurs Geograficzny 'Podróże po Mapie na Jednym Balonie'",
+        "competition_id": 11
+    },
+    {
+        "competition_name": "Interdyscyplinarne Zawody w Wykonywaniu Origami według Zasad Fizyki Kwantowej",
+        "competition_id": 12
+    },
+    {
+        "competition_name": "Międzyszkolne Mistrzostwa w Tworzeniu Makiet Starożytnej Grecji z Kostek Cukru",
+        "competition_id": 13
+    },
+    {
+        "competition_name": "Ogólnopolski Konkurs Techniki Kalkulacji Procentowej za Pomocą Kolorowych Guzików",
+        "competition_id": 14
+    },
+    {
+        "competition_name": "Turniej Języka Angielskiego w Trampkach Harry'ego Pottera",
+        "competition_id": 15
+    },
+    {
+        "competition_name": "Konkurs Biologiczny 'Ewolucja na Talerzu - Kreowanie Gatunków z Warzyw i Owoców'",
+        "competition_id": 16
+    },
+    {
+        "competition_name": "Międzyszkolne Zawody z Dydaktycznego Użytkowania Trójkątów Równoramiennych",
+        "competition_id": 17
+    },
+    {
+        "competition_name": "Olimpiada Historii Sztuki Interpretowanej Przez Medium Czerwonych Markerów",
+        "competition_id": 18
+    },
+    {
+        "competition_name": "Konkurs Astronomiczny z Budowania Teleskopów z Papieru Toaletowego",
+        "competition_id": 19
+    },
+    {
+        "competition_name": "Ogólnopolski Turniej Języka Niemieckiego Przez Filtry Snapchata",
+        "competition_id": 20
+    }
+]

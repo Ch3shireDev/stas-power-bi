@@ -1,0 +1,122 @@
+[
+    {
+        "school_id": 1,
+        "school_name": "Liceum Ogólnokształcące im. Jaskółki Szumowej na ul. Bałtyckiej 12",
+        "school_geo_latitude": 52.25,
+        "school_geo_longtitude": 21.107
+    },
+    {
+        "school_id": 2,
+        "school_name": "Technikum Kosmicznej Entomologii przy ul. Marsjańskiej 33",
+        "school_geo_latitude": 52.293,
+        "school_geo_longtitude": 20.904
+    },
+    {
+        "school_id": 3,
+        "school_name": "Zespół Szkół Gastronomicznych 'U Kucharza z Dżemem' na ul. Dżemowej 9",
+        "school_geo_latitude": 52.235,
+        "school_geo_longtitude": 20.82
+    },
+    {
+        "school_id": 4,
+        "school_name": "Technikum Magii i Czarodziejstwa 'Jasna Kula', ul. Tęczowa 5",
+        "school_geo_latitude": 52.306,
+        "school_geo_longtitude": 21.092
+    },
+    {
+        "school_id": 5,
+        "school_name": "Liceum Ogólnokształcące dla Młodych Odkrywców Pierwiastków, ul. Radonowa 20",
+        "school_geo_latitude": 52.312,
+        "school_geo_longtitude": 20.687
+    },
+    {
+        "school_id": 6,
+        "school_name": "Szkoła Szermierki Świetlnej na ul. Gwiezdnej Drogi 3",
+        "school_geo_latitude": 52.048,
+        "school_geo_longtitude": 21.015
+    },
+    {
+        "school_id": 7,
+        "school_name": "Technikum Sztuki Origami im. Papierowego Smoka na ul. Papierowej 11",
+        "school_geo_latitude": 52.086,
+        "school_geo_longtitude": 21.092
+    },
+    {
+        "school_id": 8,
+        "school_name": "Liceum Plastyczne 'Paleta Marzeń' na ul. Kolorowej 14",
+        "school_geo_latitude": 52.294,
+        "school_geo_longtitude": 20.999
+    },
+    {
+        "school_id": 9,
+        "school_name": "Zespół Szkół Baletowych 'Piruety w Powietrzu' na ul. Tanecznej 27",
+        "school_geo_latitude": 52.291,
+        "school_geo_longtitude": 21.06
+    },
+    {
+        "school_id": 10,
+        "school_name": "Technikum Poetyckiego Programowania, ul. Kodowej 17",
+        "school_geo_latitude": 52.235,
+        "school_geo_longtitude": 21.135
+    },
+    {
+        "school_id": 11,
+        "school_name": "Liceum Ogólnokształcące 'Podróżnicy Czasu' przy ul. Minutowej 60",
+        "school_geo_latitude": 52.142,
+        "school_geo_longtitude": 20.888
+    },
+    {
+        "school_id": 12,
+        "school_name": "Szkoła Strojenia Harf na ul. Strunowej 7",
+        "school_geo_latitude": 52.266,
+        "school_geo_longtitude": 21.041
+    },
+    {
+        "school_id": 13,
+        "school_name": "Technikum Wirtualnej Rzeczywistości na ul. Cyfrowej 101",
+        "school_geo_latitude": 52.274,
+        "school_geo_longtitude": 21.086
+    },
+    {
+        "school_id": 14,
+        "school_name": "Liceum Ogólnokształcące im. Kapitana Bajkopisarzy na ul. Opowieściowej 8",
+        "school_geo_latitude": 52.098,
+        "school_geo_longtitude": 20.962
+    },
+    {
+        "school_id": 15,
+        "school_name": "Zespół Szkół Magii Iluzji na ul. Znikającej 13",
+        "school_geo_latitude": 52.126,
+        "school_geo_longtitude": 20.974
+    },
+    {
+        "school_id": 16,
+        "school_name": "Technikum Gastronomiczno-Kosmiczne na ul. Meteorytowej 22",
+        "school_geo_latitude": 52.187,
+        "school_geo_longtitude": 20.802
+    },
+    {
+        "school_id": 17,
+        "school_name": "Liceum Ogólnokształcące 'Podróże w Ciemność' na ul. Nocnej 1",
+        "school_geo_latitude": 52.26,
+        "school_geo_longtitude": 21.063
+    },
+    {
+        "school_id": 18,
+        "school_name": "Szkoła Eksperymentalnej Astrofizyki na ul. Kwazarowej 30",
+        "school_geo_latitude": 52.266,
+        "school_geo_longtitude": 21.009
+    },
+    {
+        "school_id": 19,
+        "school_name": "Technikum Sztuk Pięknych 'Palette Swoich Snów' na ul. Paletowej 4",
+        "school_geo_latitude": 52.124,
+        "school_geo_longtitude": 21.003
+    },
+    {
+        "school_id": 20,
+        "school_name": "Liceum Ogólnokształcące 'Zakręcone Wzory' przy ul. Spirali 9",
+        "school_geo_latitude": 52.189,
+        "school_geo_longtitude": 20.972
+    }
+]
